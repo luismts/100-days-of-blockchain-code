@@ -38,4 +38,4 @@ Inspired by [Siraj Raval's 100 Days Of ML Code challange](https://www.youtube.co
 
 **Thoughts** I did some more research on ES6 Promises and found a cleaner way for writing promise chains with `async` and `await` instead of `.then(() => {})`. Also learned about the difference between a `mapping`, `array` and `struct` in Solidity. 
 
-**Link(s) to work** [LabToken ICO website](https://royvoetman.github.io/LabToken/)
+**Link(s) to work** [Election DApp repo](https://github.com/RoyVoetman/Election-DApp)
