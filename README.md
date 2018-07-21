@@ -1,6 +1,6 @@
 # 100 Days Of Blockchain Code - Log
 
-## 100 Days Of Blockchain Code is a pledge to dedicate at least 1 hour of studying or coding to blockchain development for 100 days
+## 100 Days Of Blockchain Code is a pledge to dedicate at least 1 hour of study or coding to blockchain development for 100 days
 Inspired by [Siraj Raval's 100 Days Of ML Code challenge](https://www.youtube.com/watch?v=cuQMBj1cWPo)
 
 
