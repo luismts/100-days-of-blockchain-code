@@ -39,3 +39,18 @@ Inspired by [Siraj Raval's 100 Days Of ML Code challenge](https://www.youtube.co
 **Thoughts** I did some more research on ES6 Promises and found a cleaner way of writing promise chains with `async` and `await` instead of `.then(() => {})`. I also learned about the difference between a `mapping`, `array` and `struct` in Solidity. 
 
 **Link(s) to work** [Election DApp repo](https://github.com/RoyVoetman/Election-DApp)
+
+### Day 5: July 22, 2018
+##### Coding My First DApp on Ethereum (Election DApp)
+
+**Today's Progress**: Added the core voting functionality to Smart Contract and front-end.
+
+**Thoughts** 
+
+* Today I had a problem with listening for Smart Contract events when starting from `block 0`. This meant that all the previous events would trigger at the same time on a page reload. This resulted in unnecessary code execution.
+
+* Found a way for handling errors with `async` functions without `try` and `catch` blocks.
+
+**Shout out** [Article: How to write async await without try-catch blocks in Javascript](https://blog.grossman.io/how-to-write-async-await-without-try-catch-blocks-in-javascript/)
+
+**Link(s) to work** [Election DApp repo](https://github.com/RoyVoetman/Election-DApp)
