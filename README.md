@@ -54,3 +54,14 @@ Inspired by [Siraj Raval's 100 Days Of ML Code challenge](https://www.youtube.co
 **Shout out** [Article: How to write async await without try-catch blocks in Javascript](https://blog.grossman.io/how-to-write-async-await-without-try-catch-blocks-in-javascript/)
 
 **Link(s) to work** [Election DApp repo](https://github.com/RoyVoetman/Election-DApp)
+
+### Day 6: July 23, 2018
+##### Coding My First DApp on Ethereum (Election DApp)
+
+**Today's Progress**: Deployed front-end to IPFS.
+
+**Thoughts** At first at was not clear to me what the difference was between IPFS and IPNS but now I know that IPFS is the hash of the file and IPNS is the hash you can publish because that one isn't gonna change.
+
+**Link(s) to work**
+ * [Election DApp repo](https://github.com/RoyVoetman/Election-DApp)
+ * [IPFS Gateway](https://gateway.ipfs.io/ipns/QmQVEuk8x7por9xSJVNTTxRqTJWxspJt5GnrEmWxEt29rd/)
