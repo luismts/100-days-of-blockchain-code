@@ -65,3 +65,14 @@ Inspired by [Siraj Raval's 100 Days Of ML Code challenge](https://www.youtube.co
 **Link(s) to work**
  * [Election DApp repo](https://github.com/RoyVoetman/Election-DApp)
  * [IPFS Gateway](https://gateway.ipfs.io/ipns/QmQVEuk8x7por9xSJVNTTxRqTJWxspJt5GnrEmWxEt29rd/)
+ 
+ ### Day 7: July 24, 2018
+ ##### Coding My First DApp on Ethereum (Election DApp)
+ 
+ **Today's Progress**: Added functionality for contract admin to dynamically add new candidates / Started refactoring Token Sale tests (`async await` instead of `then()`)
+ 
+ **Thoughts** I didn't really have any struggles today apart from Metamask caching some things about my local test network, fixed this by changing netwerk_id of test network.
+ 
+ **Link(s) to work**
+  * [Election DApp repo](https://github.com/RoyVoetman/Election-DApp)
+  * [LabToken ICO website](https://royvoetman.github.io/LabToken/)
