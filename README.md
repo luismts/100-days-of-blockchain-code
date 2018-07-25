@@ -87,5 +87,5 @@ Inspired by [Siraj Raval's 100 Days Of ML Code challenge](https://www.youtube.co
    Eventually, I created a getter function for the private 'admin' variable but added an 'onlyOwner' modifier to check if the address calling it is the owner. Then in the front-end, I wrapped the getter function in a 'try' block so the extra functionality would only be visable for the owner.
    
    **Link(s) to work**
-    * [Election DApp repo](https://github.com/RoyVoetman/Election-DApp)
-    * [LabToken ICO website](https://royvoetman.github.io/LabToken/)
+  * [Election DApp repo](https://github.com/RoyVoetman/Election-DApp)
+  * [LabToken ICO website](https://royvoetman.github.io/LabToken/)
