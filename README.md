@@ -76,3 +76,16 @@ Inspired by [Siraj Raval's 100 Days Of ML Code challenge](https://www.youtube.co
  **Link(s) to work**
   * [Election DApp repo](https://github.com/RoyVoetman/Election-DApp)
   * [LabToken ICO website](https://royvoetman.github.io/LabToken/)
+  
+   ### Day 8: July 24, 2018
+   ##### Coding My First DApp on Ethereum (Election DApp)
+   
+   **Today's Progress**: Added functionality for contract admin to dynamically add new candidates in the front-end / Finished refactoring Token Sale tests (`async await` instead of `then()`)
+   
+   **Thoughts** I faced a challenge by integrating special functionality for the Contract Owner because I didn't want everybody to know how the admin is so hard-coding the address or defining the 'admin' variable public wouldn't solve anything.
+   
+   Eventually, I created a getter function for the private 'admin' variable but added an 'onlyOwner' modifier to check if the address calling it was the owner. Then in the front-end, I wrapped the getter function in a 'try' block so extra functionality would only be viable for the owner
+   
+   **Link(s) to work**
+    * [Election DApp repo](https://github.com/RoyVoetman/Election-DApp)
+    * [LabToken ICO website](https://royvoetman.github.io/LabToken/)
