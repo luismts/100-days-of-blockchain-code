@@ -69,7 +69,7 @@ Inspired by [Siraj Raval's 100 Days Of ML Code challenge](https://www.youtube.co
  ### Day 7: July 24, 2018
  ##### Coding My First DApp on Ethereum (Election DApp)
  
- **Today's Progress**: Added functionality for contract admin to dynamically add new candidates / Started refactoring Token Sale tests (`async await` instead of `then()`)
+ **Today's Progress**: Added functionality for contract admin to dynamically add new candidates / Started refactoring Token Sale tests (`async await` instead of `then()`).
  
  **Thoughts** I didn't really have any struggles today apart from Metamask caching some things about my local test network, fixed this by changing netwerk_id of test network.
  
@@ -80,11 +80,11 @@ Inspired by [Siraj Raval's 100 Days Of ML Code challenge](https://www.youtube.co
    ### Day 8: July 24, 2018
    ##### Coding My First DApp on Ethereum (Election DApp)
    
-   **Today's Progress**: Added functionality for contract admin to dynamically add new candidates in the front-end / Finished refactoring Token Sale tests (`async await` instead of `then()`)
+   **Today's Progress**: Added functionality for contract admin to dynamically add new candidates in the front-end / Finished refactoring Token Sale tests (`async await` instead of `then()`).
    
-   **Thoughts** I faced a challenge by integrating special functionality for the Contract Owner because I didn't want everybody to know how the admin is so hard-coding the address or defining the 'admin' variable public wouldn't solve anything.
+   **Thoughts** I faced a challenge by integrating special functionality for the Contract Owner because I didn't want everybody to know who the admin is so hard-coding the address or defining the 'admin' variable public wouldn't solve anything.
    
-   Eventually, I created a getter function for the private 'admin' variable but added an 'onlyOwner' modifier to check if the address calling it was the owner. Then in the front-end, I wrapped the getter function in a 'try' block so extra functionality would only be viable for the owner
+   Eventually, I created a getter function for the private 'admin' variable but added an 'onlyOwner' modifier to check if the address calling it is the owner. Then in the front-end, I wrapped the getter function in a 'try' block so the extra functionality would only be visable for the owner.
    
    **Link(s) to work**
     * [Election DApp repo](https://github.com/RoyVoetman/Election-DApp)
