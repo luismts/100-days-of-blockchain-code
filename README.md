@@ -89,3 +89,14 @@ Inspired by [Siraj Raval's 100 Days Of ML Code challenge](https://www.youtube.co
    **Link(s) to work**
   * [Election DApp repo](https://github.com/RoyVoetman/Election-DApp)
   * [LabToken ICO website](https://royvoetman.github.io/LabToken/)
+  
+ ### Day 9: July 25, 2018
+ ##### Coding My First DApp on Ethereum (Election DApp)
+   
+   **Today's Progress**: Deployed Election DApp to Rinkeby test network and deployed frontend to IPFS.
+   
+   **Thoughts** Today I finished my first DApp! Really learning a lot by just doing, without this challenge I would have probably procrastinated on this project.
+   
+   **Link(s) to work**
+  * [Election DApp repo](https://github.com/RoyVoetman/Election-DApp)
+  * [IPFS Gateway](https://gateway.ipfs.io/ipns/QmQVEuk8x7por9xSJVNTTxRqTJWxspJt5GnrEmWxEt29rd/)
