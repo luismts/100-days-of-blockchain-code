@@ -100,3 +100,14 @@ Inspired by [Siraj Raval's 100 Days Of ML Code challenge](https://www.youtube.co
    **Link(s) to work**
   * [Election DApp repo](https://github.com/RoyVoetman/Election-DApp)
   * [IPFS Gateway](https://gateway.ipfs.io/ipns/QmQVEuk8x7por9xSJVNTTxRqTJWxspJt5GnrEmWxEt29rd/)
+  
+    
+ ### Day 10: July 26, 2018
+   
+   **Today's Progress**: Did more research on the possibilities/potentials of blockchain technology / Looked into the Drizzle front-end framework from truffle.
+   
+   **Thoughts** Today there is a heat wave and because of this coding isn't really the best thing to do right now. But doing research on all the available tools and looking at how other people solve the problems they face when build DApps is also a very good learning opportunity.
+   
+   **Link(s) to work**
+  * [Drizzle](https://truffleframework.com/docs/drizzle/getting-started)
+  * [Video](https://www.youtube.com/watch?v=oCS05QSQ-1k)
