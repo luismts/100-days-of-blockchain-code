@@ -114,7 +114,7 @@ Inspired by [Siraj Raval's 100 Days Of ML Code challenge](https://www.youtube.co
   
  ### Day 11: July 27, 2018
    
-   **Today's Progress**: Did research on NEO and EOS and what technologies bring to the crypto space
+   **Today's Progress**: Did research on NEO and EOS and what these technologies bring to the crypto space
    
    **Thoughts** I personally think if Etheruem doesn't start improving it will be replaced by ether NEO or EOS. My personal interest goes to EOS because of its low feeds and the use of an improved consensus protocol over regular PoS.
    
