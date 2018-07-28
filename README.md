@@ -51,7 +51,7 @@ Inspired by [Siraj Raval's 100 Days Of ML Code challenge](https://www.youtube.co
 
 * Found a way for handling errors with `async` functions without `try` and `catch` blocks.
 
-**Shout out** [Article: How to write async await without try-catch blocks in Javascript](https://blog.grossman.io/how-to-write-async-await-without-try-catch-blocks-in-javascript/)
+**References** [Article: How to write async await without try-catch blocks in Javascript](https://blog.grossman.io/how-to-write-async-await-without-try-catch-blocks-in-javascript/)
 
 **Link(s) to work** [Election DApp repo](https://github.com/RoyVoetman/Election-DApp)
 
