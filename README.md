@@ -51,7 +51,7 @@ Inspired by [Siraj Raval's 100 Days Of ML Code challenge](https://www.youtube.co
 
 * Found a way for handling errors with `async` functions without `try` and `catch` blocks.
 
-**References** [Article: How to write async await without try-catch blocks in Javascript](https://blog.grossman.io/how-to-write-async-await-without-try-catch-blocks-in-javascript/)
+**Reference(s)** [Article: How to write async await without try-catch blocks in Javascript](https://blog.grossman.io/how-to-write-async-await-without-try-catch-blocks-in-javascript/)
 
 **Link(s) to work** [Election DApp repo](https://github.com/RoyVoetman/Election-DApp)
 
@@ -108,7 +108,7 @@ Inspired by [Siraj Raval's 100 Days Of ML Code challenge](https://www.youtube.co
    
    **Thoughts** Today there is a heat wave and because of this coding isn't really the best thing to do right now. But doing research on all the available tools and looking at how other people solve the problems they face when build DApps is also a very good learning opportunity.
    
-   **References**
+   **Reference(s)**
   * [Drizzle](https://truffleframework.com/docs/drizzle/getting-started)
   * [Video](https://www.youtube.com/watch?v=oCS05QSQ-1k)
   
@@ -118,7 +118,7 @@ Inspired by [Siraj Raval's 100 Days Of ML Code challenge](https://www.youtube.co
    
    **Thoughts** I personally think if Etheruem doesn't start improving it will be replaced by either NEO or EOS. My personal interest goes to EOS because of its low feeds and the use of an improved consensus protocol over regular PoS.
    
-  **References**
+  **Reference(s)**
   * [EOS](https://eos.io/)
   * [NEO](https://neo.org/)
   * [https://globalcoinreport.com/eos-vs-neo-which-one-will-replace-ethereum/](https://globalcoinreport.com/eos-vs-neo-which-one-will-replace-ethereum/)
