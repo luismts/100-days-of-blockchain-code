@@ -7,7 +7,7 @@ Inspired by [Siraj Raval's 100 Days Of ML Code challenge](https://www.youtube.co
 ### Day 1: July 18, 2018
 ##### Coding My Own Cryptocurrency on Ethereum
 
-**Today's Progress**: Written First Smart Contract and began with coding front-end for ICO website.
+**Today's Progress**: Written First Smart Contract and started with coding front-end for ICO website.
 
 **Thoughts:** I really struggled with having a test-driven development mindset. But getting the hang of it now.
 
