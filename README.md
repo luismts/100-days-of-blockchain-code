@@ -77,7 +77,7 @@ Inspired by [Siraj Raval's 100 Days Of ML Code challenge](https://www.youtube.co
   * [Election DApp repo](https://github.com/RoyVoetman/Election-DApp)
   * [LabToken ICO website](https://royvoetman.github.io/LabToken/)
   
-   ### Day 8: July 24, 2018
+   ### Day 8: July 25, 2018
    ##### Coding My First DApp on Ethereum (Election DApp)
    
    **Today's Progress**: Added functionality for contract admin to dynamically add new candidates in the front-end / Finished refactoring Token Sale tests (`async await` instead of `then()`).
@@ -90,7 +90,7 @@ Inspired by [Siraj Raval's 100 Days Of ML Code challenge](https://www.youtube.co
   * [Election DApp repo](https://github.com/RoyVoetman/Election-DApp)
   * [LabToken ICO website](https://royvoetman.github.io/LabToken/)
   
- ### Day 9: July 25, 2018
+ ### Day 9: July 26, 2018
  ##### Coding My First DApp on Ethereum (Election DApp)
    
    **Today's Progress**: Deployed Election DApp to Rinkeby test network and deployed frontend to IPFS.
@@ -102,7 +102,7 @@ Inspired by [Siraj Raval's 100 Days Of ML Code challenge](https://www.youtube.co
   * [IPFS Gateway](https://gateway.ipfs.io/ipns/QmQVEuk8x7por9xSJVNTTxRqTJWxspJt5GnrEmWxEt29rd/)
   
     
- ### Day 10: July 26, 2018
+ ### Day 10: July 27, 2018
    
    **Today's Progress**: Did more research on the possibilities/potentials of blockchain technology / Looked into the Drizzle front-end framework from truffle.
    
@@ -112,7 +112,7 @@ Inspired by [Siraj Raval's 100 Days Of ML Code challenge](https://www.youtube.co
   * [Drizzle](https://truffleframework.com/docs/drizzle/getting-started)
   * [Video](https://www.youtube.com/watch?v=oCS05QSQ-1k)
   
- ### Day 11: July 27, 2018
+ ### Day 11: July 28, 2018
    
    **Today's Progress**: Did research on NEO and EOS and what these technologies bring to the crypto space
    
@@ -122,3 +122,13 @@ Inspired by [Siraj Raval's 100 Days Of ML Code challenge](https://www.youtube.co
   * [EOS](https://eos.io/)
   * [NEO](https://neo.org/)
   * [https://globalcoinreport.com/eos-vs-neo-which-one-will-replace-ethereum/](https://globalcoinreport.com/eos-vs-neo-which-one-will-replace-ethereum/)
+  
+### Day 12: July 29, 2018
+   
+   **Today's Progress**: Started reading EOS's white paper and doing more research on EOS in general
+   
+   **Thoughts**: I think there is a very high potential for EOS to grow in the next few months/years. Really excited to see what will happen over time. I will definitely look into developing DApps for EOS.
+   
+  **Reference(s)**:
+  * [EOS](https://eos.io/)
+  * [EOS Whitepaper](https://github.com/EOSIO/Documentation/blob/master/TechnicalWhitePaper.md)
