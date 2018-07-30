@@ -132,3 +132,13 @@ Inspired by [Siraj Raval's 100 Days Of ML Code challenge](https://www.youtube.co
   **Reference(s)**:
   * [EOS](https://eos.io/)
   * [EOS Whitepaper](https://github.com/EOSIO/Documentation/blob/master/TechnicalWhitePaper.md)
+  
+### Day 13: July 30, 2018
+   
+  **Today's Progress**: Tried setting up EOS developer environment.
+
+  **Thoughts**: Today I learned about docker because the EOS documentation says that this is the quickest way to set up the development environment. The docker image is now successfully installed but I still can't execute commands like 'nodeos', 'cleos', and 'keosd'
+   
+  **Reference(s)**:
+  * [EOS Quickstart](https://developers.eos.io/eosio-nodeos/docs/docker-quickstart)
+  * [Docker](https://docs.docker.com/)
