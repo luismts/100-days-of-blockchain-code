@@ -51,7 +51,9 @@ Inspired by [Siraj Raval's 100 Days Of ML Code challenge](https://www.youtube.co
 
 * Found a way for handling errors with `async` functions without `try` and `catch` blocks.
 
-**Reference(s)**: [Article: How to write async await without try-catch blocks in Javascript](https://blog.grossman.io/how-to-write-async-await-without-try-catch-blocks-in-javascript/)
+**Reference(s)**: [Article: How to write 
+
+without try-catch blocks in Javascript](https://blog.grossman.io/how-to-write-async-await-without-try-catch-blocks-in-javascript/)
 
 **Link(s) to work**: [Election DApp repo](https://github.com/RoyVoetman/Election-DApp)
 
@@ -137,7 +139,7 @@ Inspired by [Siraj Raval's 100 Days Of ML Code challenge](https://www.youtube.co
    
   **Today's Progress**: Tried setting up EOS developer environment.
 
-  **Thoughts**: Today I learned about docker because the EOS documentation says that this is the quickest way to set up the development environment. The docker image is now successfully installed but I still can't execute commands like 'nodeos', 'cleos', and 'keosd'
+  **Thoughts**: Today I learned about docker because the EOS documentation says that this is the quickest way to set up the development environment. The docker image is now successfully installed but I still can't execute commands like `nodeos`, `cleos`, and `keosd`.
    
   **Reference(s)**:
   * [EOS Quickstart](https://developers.eos.io/eosio-nodeos/docs/docker-quickstart)
