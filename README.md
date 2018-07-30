@@ -137,7 +137,7 @@ without try-catch blocks in Javascript](https://blog.grossman.io/how-to-write-as
   
 ### Day 13: July 30, 2018
    
-  **Today's Progress**: Tried setting up EOS developer environment.
+  **Today's Progress**: Tried setting up EOS development environment.
 
   **Thoughts**: Today I learned about docker because the EOS documentation says that this is the quickest way to set up the development environment. The docker image is now successfully installed but I still can't execute commands like `nodeos`, `cleos`, and `keosd`.
    
