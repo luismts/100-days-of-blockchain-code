@@ -144,3 +144,17 @@ without try-catch blocks in Javascript](https://blog.grossman.io/how-to-write-as
   **Reference(s)**:
   * [EOS Quickstart](https://developers.eos.io/eosio-nodeos/docs/docker-quickstart)
   * [Docker](https://docs.docker.com/)
+  
+### Day 14: July 31, 2018
+   
+  **Today's Progress**: Continued setting up EOS development environment.
+
+  **Thoughts**: After some more in-depth research about docker I found out how to execute a command in your docker container. But this is a pain to write every time so I added the following aliases to my `.zshrc` file:
+   * `alias cleos='docker exec -it eosio /opt/eosio/bin/cleos -u http://127.0.0.1:8888 --wallet-url http://127.0.0.1:8888'`
+   * `alias nodeos='docker exec -it eosio /opt/eosio/bin/nodeos'`
+   * `alias keosd='docker exec -it eosio /opt/eosio/bin/keosd'`
+   
+  **Reference(s)**:
+  * [EOS Introduction to smart contracts](https://developers.eos.io/eosio-cpp/docs/introduction-to-smart-contracts)
+  * [Docker exec](https://docs.docker.com/engine/reference/commandline/exec/)
+
