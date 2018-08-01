@@ -157,4 +157,14 @@ without try-catch blocks in Javascript](https://blog.grossman.io/how-to-write-as
   **Reference(s)**:
   * [EOS Introduction to smart contracts](https://developers.eos.io/eosio-cpp/docs/introduction-to-smart-contracts)
   * [Docker exec](https://docs.docker.com/engine/reference/commandline/exec/)
+  
+### Day 15: Aug 1, 2018
+   
+  **Today's Progress**: Create HelloWorld contract with EOS
 
+  **Thoughts**: Found out how to access the terminal of your Docker container and used the 'eosiocpp' compiler (also added an alias to my `.zshrc` file). I struggled a bit with keeping track of all my different PKeys and SKeys all my different accounts but everything is very well documented so I am still excited to learn more!
+   * `docker exec -it <container_id> /bin/bash`
+   * `alias eosiocpp='docker exec -it eosio /opt/eosio/bin/eosiocpp'`
+   
+  **Reference(s)**:
+  * [Documentation Guide](https://developers.eos.io/eosio-cpp/docs/hello-world)
