@@ -173,7 +173,7 @@ without try-catch blocks in Javascript](https://blog.grossman.io/how-to-write-as
    
  **Today's Progress**: Finished creating HelloWorld contract with EOS and Did more research on using Docker
 
- **Thoughts**: Found out about Dockers '-v' flag for 'VOLUME (shared filesystems)' this prevents u having to rebuild the Docker image every time you make a change to your code. This makes the Docker developing experience way better.
+ **Thoughts**: Found out about Dockers `-v` flag for `VOLUME (shared filesystems)` this prevents u having to rebuild the Docker image every time you make a change to your code. This makes the Docker developing experience way better.
    
   **Reference(s)**:
   * [Stack overflow post](https://stackoverflow.com/questions/24272535/rebuild-container-after-each-change)
