@@ -158,7 +158,7 @@ without try-catch blocks in Javascript](https://blog.grossman.io/how-to-write-as
   * [EOS Introduction to smart contracts](https://developers.eos.io/eosio-cpp/docs/introduction-to-smart-contracts)
   * [Docker exec](https://docs.docker.com/engine/reference/commandline/exec/)
   
-### Day 15: Aug 1, 2018
+### Day 15: August 1, 2018
    
   **Today's Progress**: Begon developing HelloWorld smart contract with EOS
 
@@ -169,7 +169,7 @@ without try-catch blocks in Javascript](https://blog.grossman.io/how-to-write-as
   **Reference(s)**:
   * [Documentation Guide](https://developers.eos.io/eosio-cpp/docs/hello-world)
   
-### Day 16: Aug 2, 2018
+### Day 16: August 2, 2018
    
  **Today's Progress**: Finished creating HelloWorld contract with EOS and Did more research on using Docker
 
