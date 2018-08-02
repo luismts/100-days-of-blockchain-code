@@ -160,7 +160,7 @@ without try-catch blocks in Javascript](https://blog.grossman.io/how-to-write-as
   
 ### Day 15: Aug 1, 2018
    
-  **Today's Progress**: Create HelloWorld contract with EOS
+  **Today's Progress**: Begon developing HelloWorld smart contract with EOS
 
   **Thoughts**: Found out how to access the terminal of your Docker container and used the `eosiocpp` compiler (also added an alias to my `.zshrc` file). I struggled a bit with keeping track of all my different PKeys and SKeys all my different accounts but everything is very well documented so I am still excited to learn more!
    * `docker exec -it <container_id> /bin/bash`
@@ -168,3 +168,15 @@ without try-catch blocks in Javascript](https://blog.grossman.io/how-to-write-as
    
   **Reference(s)**:
   * [Documentation Guide](https://developers.eos.io/eosio-cpp/docs/hello-world)
+  
+### Day 16: Aug 2, 2018
+   
+ **Today's Progress**: Finished creating HelloWorld contract with EOS and Did more research on using Docker
+
+ **Thoughts**: Found out about Dockers '-v' flag for 'VOLUME (shared filesystems)' this prevents u having to rebuild the Docker image every time you make a change to your code. This makes the Docker developing experience way better.
+   
+  **Reference(s)**:
+  * [Stack overflow post](https://stackoverflow.com/questions/24272535/rebuild-container-after-each-change)
+  
+  **Link(s) to work**:
+  * [Hello world smart contract](https://github.com/RoyVoetman/EOS-Starter-kit/tree/master/helloWorld)
