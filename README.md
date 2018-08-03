@@ -180,3 +180,14 @@ without try-catch blocks in Javascript](https://blog.grossman.io/how-to-write-as
   
   **Link(s) to work**:
   * [Hello world smart contract](https://github.com/RoyVoetman/EOS-Starter-kit/tree/master/helloWorld)
+  
+### Day 17: August 3, 2018
+   
+**Today's Progress**: Finally successfully setup a complete EOS development environment with Docker
+
+**Thoughts**: Yesterday I already had a 'working' development environment but my wallets didn't sync with my local environment so every time I booted up the docker image I would need to recreate all my wallets/keys. I finally solved this by reading the in-depth documentation about `cleos` and `keosd`. When I knew where the wallets/keys where stored I added a `-v` flag so that the folder would sync to my local environment.
+
+After that, I thought that it still didn't work because `cleos wallet list` still gave an empty array but after a lot of debugging I found out that only my unlocked wallets are shown with `cleos wallet list`.
+   
+  **Reference(s)**:
+  * [Learn about wallets keys and accounts with cleos](https://eosio-nodeos.readme.io/docs/learn-about-wallets-keys-and-accounts-with-cleos)
