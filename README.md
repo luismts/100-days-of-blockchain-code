@@ -191,3 +191,16 @@ After that, I thought that it still didn't work because `cleos wallet list` stil
    
   **Reference(s)**:
   * [Learn about wallets keys and accounts with cleos](https://eosio-nodeos.readme.io/docs/learn-about-wallets-keys-and-accounts-with-cleos)
+  
+  ### Day 18: August 4, 2018
+   
+**Today's Progress**: Read the 'EOS Overview' pages / Reread 'EOS Getting started guide'.
+
+**Thoughts**: After having successfully read the 'EOS Overview', pages I only briefly studied last time, it became much clearer to me how everything works. 
+
+With my new knowledge, I reread the 'EOS Getting started guide'. Now that I finished that I feel ready to begin coding my own smart contract tomorrow.
+
+  **Reference(s)**:
+  * [Communication model](https://developers.eos.io/eosio-cpp/docs/communication-model)
+  * [File structure](https://developers.eos.io/eosio-cpp/docs/file-structure)
+
