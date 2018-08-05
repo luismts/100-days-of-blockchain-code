@@ -203,4 +203,13 @@ With my new knowledge, I reread the 'EOS Getting started guide'. Now that I fini
   **Reference(s)**:
   * [Communication model](https://developers.eos.io/eosio-cpp/docs/communication-model)
   * [File structure](https://developers.eos.io/eosio-cpp/docs/file-structure)
+  
+### Day 19: August 5, 2018
+   
+**Today's Progress**: Started following EOS Developement turorial.
+
+**Thoughts**: After installing/configuring the CLion IDE, I followed the EOS development tutorial by Infinitexlabs. Really like the tutorial and require knowledge level. Struggling a little with all the C++ code because I only now C. C++ will defiantly be a something to look into.
+
+  **Reference(s)**:
+  * [EOS Developement turorial](https://infinitexlabs.com/eos-development-tutorial-part-1/)
 
