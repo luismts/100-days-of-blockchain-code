@@ -212,4 +212,16 @@ With my new knowledge, I reread the 'EOS Getting started guide'. Now that I fini
 
   **Reference(s)**:
   * [EOS Developement turorial](https://infinitexlabs.com/eos-development-tutorial-part-1/)
+  
+    
+### Day 20: August 6, 2018
+   
+**Today's Progress**: Followed C++ tutorials.
+
+**Thoughts**: Because I already know C, most of the syntax was pretty straightforward. But I am still struggling with the difference between `this` and `self`.
+
+  **Reference(s)**:
+  * [Derek Banas C++ Problem solving](https://www.youtube.com/watch?v=Rub-JsjMhWY)
+  * [Derek Banas C++](https://www.youtube.com/watch?v=N5HgK1bTLOg)
+
 
