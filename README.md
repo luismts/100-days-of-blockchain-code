@@ -223,5 +223,13 @@ With my new knowledge, I reread the 'EOS Getting started guide'. Now that I fini
   **Reference(s)**:
   * [Derek Banas C++ Problem solving](https://www.youtube.com/watch?v=Rub-JsjMhWY)
   * [Derek Banas C++](https://www.youtube.com/watch?v=N5HgK1bTLOg)
+  
+  ### Day 21: August 7, 2018
+   
+**Today's Progress**: Continued following EOS Developement turorial / Watched EOS Hackethon finals.
 
+**Thoughts**: It's really awesome to see what other people are creating with blockchain. Watching the pitches of the hackathon finalists also gives you inside in their work-flow and thought process so it's a great learning opportunity.
 
+  **Reference(s)**:
+  * [EOS Developement turorial](https://infinitexlabs.com/eos-development-tutorial-part-2/)
+  * [Hackethon finals](https://www.youtube.com/watch?v=_JIaooJeNdk)
