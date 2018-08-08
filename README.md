@@ -233,3 +233,13 @@ With my new knowledge, I reread the 'EOS Getting started guide'. Now that I fini
   **Reference(s)**:
   * [EOS Developement turorial](https://infinitexlabs.com/eos-development-tutorial-part-2/)
   * [Hackethon finals](https://www.youtube.com/watch?v=_JIaooJeNdk)
+
+  ### Day 22: August 8, 2018
+   
+**Today's Progress**: Moved from using Docker to building from source.
+
+**Thoughts**: I found that the docker image was great for getting up and running but it had some limitations when it came to developing. So I uninstalled the docker image and with the provided build script from EOS, I build from source. After look at the 'Build options' section in the docs I found out it is possible to use the docker image for development but it required some extra steps. But because I now already had a local EOS build I didn't saw a need to switch back to Docker.
+
+  **Reference(s)**:
+  * [EOS Build docs](https://developers.eos.io/eosio-nodeos/docs/autobuild-script)
+  * [Build issue](https://github.com/EOSIO/eos/issues/2392)
