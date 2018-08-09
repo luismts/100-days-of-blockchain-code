@@ -248,7 +248,7 @@ With my new knowledge, I reread the 'EOS Getting started guide'. Now that I fini
    
 **Today's Progress**: Followed webinar about developing with EOS / Found out the difference between an OwnerKey and ActiveKey.
 
-**Thoughts**: Finally, I can really get to the coding, I have setup Nodeos Keosd and Cleos and I have configured CLion to work with 'eoslib'. Also did so research about the need of an OwnerKey and ActiveKey, your active key and owner key can really do everything a normal private key could do, except that your owner key can overwrite the active key so when you think your active key has been compromised you use your owner key to overwrite the active key.
+**Thoughts**: Finally, I can really get to the coding, I have setup Nodeos Keosd and Cleos and I have configured CLion to work with `eoslib`. Also did so research about the need of an `owner key` and `active key`, your active key and owner key can really do everything a normal private key could do, except that your owner key can overwrite the active key so when you think your active key has been compromised you use your owner key to overwrite the active key.
 
   **Reference(s)**:
   * [EOS webinar](  https://www.youtube.com/watch?v=E3Tx2DseLGE)
