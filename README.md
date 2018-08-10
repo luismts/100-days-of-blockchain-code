@@ -253,3 +253,19 @@ With my new knowledge, I reread the 'EOS Getting started guide'. Now that I fini
   **Reference(s)**:
   * [EOS webinar](  https://www.youtube.com/watch?v=E3Tx2DseLGE)
   * [OwnerKey ActiveKey Reddit](https://www.reddit.com/r/eos/comments/8vl8b1/manage_your_owner_and_active_keypairs_to_get_cold/)
+  
+### Day 24: August 10, 2018
+
+**Today's Progress**: Continued following webinar about developing with EOS.
+
+**Thoughts**: My ideal setup would be to have the EOSIO software is my `~/Library` folder and my custom contract is a special `~/Desktop/dapps` folder on my desktop. So I moved the 'EOS' folder to `~/Library/eosio` and created a bash function for compiling:
+```
+eos-compile() {
+eosiocpp -o "$1.wast" "$1.cpp"
+eosiocpp -g "$1.abi" "$1.hpp"
+}
+```
+The problem I encountered is that I don't have access to the 'eoslib' inside of this folder. Still trying to figure out how to solve this problem.
+
+  **Reference(s)**:
+  * [EOS webinar](https://www.youtube.com/watch?v=E3Tx2DseLGE)
