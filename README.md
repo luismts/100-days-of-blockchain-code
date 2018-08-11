@@ -269,3 +269,16 @@ The problem I encountered is that I don't have access to the 'eoslib' inside of 
 
   **Reference(s)**:
   * [EOS webinar](https://www.youtube.com/watch?v=E3Tx2DseLGE)
+  
+  ### Day 25: August 11, 2018
+
+**Today's Progress**: Finished following webinar about developing with EOS. / Did some research about WASM
+
+**Thoughts**: After the webinar, there was a Q&A and that really help to solve some questions I have been having. They also pointed me out to an `EOS Developers` telegram group which is the perfect place to ask your questions about EOS development.
+
+I Also, did some research on WASM (WebAssembly) because EOS uses WASM to store contracts on the EOS blockchain.
+
+  **Reference(s)**:
+  * [EOS webinar](https://www.youtube.com/watch?v=E3Tx2DseLGE)
+  * [WebAssembly Demystified](https://www.youtube.com/watch?v=6Y3W94_8scw)
+  * [EOS Developers telegram](https://t.me/joinchat/EaEnSUPktgfoI-XPfMYtcQ)
