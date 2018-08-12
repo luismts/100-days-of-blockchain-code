@@ -51,9 +51,7 @@ Inspired by [Siraj Raval's 100 Days Of ML Code challenge](https://www.youtube.co
 
 * Found a way for handling errors with `async` functions without `try` and `catch` blocks.
 
-**Reference(s)**: [Article: How to write 
-
-without try-catch blocks in Javascript](https://blog.grossman.io/how-to-write-async-await-without-try-catch-blocks-in-javascript/)
+**Reference(s)**: [Article: How to write without try-catch blocks in Javascript](https://blog.grossman.io/how-to-write-async-await-without-try-catch-blocks-in-javascript/)
 
 **Link(s) to work**: [Election DApp repo](https://github.com/RoyVoetman/Election-DApp)
 
@@ -282,3 +280,16 @@ I Also, did some research on WASM (WebAssembly) because EOS uses WASM to store c
   * [EOS webinar](https://www.youtube.com/watch?v=E3Tx2DseLGE)
   * [WebAssembly Demystified](https://www.youtube.com/watch?v=6Y3W94_8scw)
   * [EOS Developers telegram](https://t.me/joinchat/EaEnSUPktgfoI-XPfMYtcQ)
+  
+    ### Day 26: August 12, 2018
+
+**Today's Progress**: Got started on my own election smart contract for EOS.
+
+**Thoughts**: Finally started developing my own smart contract! Although I am still struggling with all the EOSLIB custom data types, the `contracts` folder from EOSIO is a great resource.
+
+  **Reference(s)**:
+  * [EOSIO/eosio/contracts](https://github.com/EOSIO/eos/tree/master/contracts)
+  * [CodingWithCrypto Youtube Channel](https://www.youtube.com/channel/UC4U1e94pVzGceaxJw3WCkRQ)
+  
+  **Link(s) to work**:
+  * [Smart Contract](https://github.com/RoyVoetman/EOSIO-Contracts/tree/master/election)
