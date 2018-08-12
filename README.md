@@ -281,7 +281,7 @@ I Also, did some research on WASM (WebAssembly) because EOS uses WASM to store c
   * [WebAssembly Demystified](https://www.youtube.com/watch?v=6Y3W94_8scw)
   * [EOS Developers telegram](https://t.me/joinchat/EaEnSUPktgfoI-XPfMYtcQ)
   
-    ### Day 26: August 12, 2018
+### Day 26: August 12, 2018
 
 **Today's Progress**: Got started on my own election smart contract for EOS.
 
