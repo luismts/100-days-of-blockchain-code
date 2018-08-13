@@ -293,3 +293,15 @@ I Also, did some research on WASM (WebAssembly) because EOS uses WASM to store c
   
   **Link(s) to work**:
   * [Smart Contract](https://github.com/RoyVoetman/EOSIO-Contracts/tree/master/election)
+  
+### Day 27: August 13, 2018
+
+**Today's Progress**: Implemented voting logic in my election smart contract for EOS.
+
+**Thoughts**: It's really difficult to develop on a platform that is still under heavy production. So parts of the EOS.org documentation are out of date so you need to ask people on for example Telegram to know what is the right way to implement certain logic.
+
+  **Reference(s)**:
+  * [C++/C Function Reference](https://developers.eos.io/eosio-cpp/reference)
+  
+  **Link(s) to work**:
+  * [Smart Contract](https://github.com/RoyVoetman/EOSIO-Contracts/tree/master/election)
