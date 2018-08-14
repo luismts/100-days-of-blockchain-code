@@ -305,3 +305,17 @@ I Also, did some research on WASM (WebAssembly) because EOS uses WASM to store c
   
   **Link(s) to work**:
   * [Smart Contract](https://github.com/RoyVoetman/EOSIO-Contracts/tree/master/election)
+  
+  ### Day 28: August 14, 2018
+  
+  **Today's Progress**: Finished my election smart contract for EOS.
+  
+  **Thoughts**: Still having problems with compiling my contract to WASM with the `eosiocpp` compiler. After that I tried build it in CLion with CMake but also without success. Hopefully I will figure it out tomorrow.
+  
+  But besides the problems with compiling I am really glad that I finished my first EOS Smart Contract!
+  
+    **Reference(s)**:
+    * [C++/C Function Reference](https://developers.eos.io/eosio-cpp/reference)
+    
+    **Link(s) to work**:
+    * [Smart Contract](https://github.com/RoyVoetman/EOSIO-Contracts/tree/master/election)
