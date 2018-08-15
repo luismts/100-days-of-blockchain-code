@@ -314,8 +314,23 @@ I Also, did some research on WASM (WebAssembly) because EOS uses WASM to store c
   
   But besides the problems with compiling I am really glad that I finished my first EOS Smart Contract!
   
-    **Reference(s)**:
-    * [C++/C Function Reference](https://developers.eos.io/eosio-cpp/reference)
+   **Reference(s)**:
+   * [C++/C Function Reference](https://developers.eos.io/eosio-cpp/reference)
     
-    **Link(s) to work**:
-    * [Smart Contract](https://github.com/RoyVoetman/EOSIO-Contracts/tree/master/election)
+   **Link(s) to work**:
+   * [Smart Contract](https://github.com/RoyVoetman/EOSIO-Contracts/tree/master/election)
+    
+### Day 29: August 15, 2018
+  
+  **Today's Progress**: Uninstalled EOS?!
+  
+  **Thoughts**: After a lot of research I still couldn't find out what the problem was with my `eosiocpp` compiler. But a great thanks to the EOS Developers Telegram group for helping me out. It seems that when I built EOS there was a bug in the source code. They fixed this later so that would mean that I had to uninstall EOS and rebuild it again.
+
+   I saw this as the perfect opportunity to go from a local build to a VM build. So tomorrow I will build EOS again but then on a Linux VM.
+ 
+  *Btw: EOS v1.2.0 just came out and it says the `eosiocpp` executable is now deprecated. We should now use `eosio-cpp` from the `eosio.wasmsdk`*
+  
+   **Reference(s)**:
+   * [EOS v1.2.0](https://github.com/EOSIO/eos/releases/tag/v1.2.0)
+   * [WASM SDK](https://github.com/EOSIO/eosio.wasmsdk)
+   * [EOS Developers telegram](https://t.me/joinchat/EaEnSUPktgfoI-XPfMYtcQ)
