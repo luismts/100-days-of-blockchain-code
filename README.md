@@ -334,3 +334,16 @@ I Also, did some research on WASM (WebAssembly) because EOS uses WASM to store c
    * [EOS v1.2.0](https://github.com/EOSIO/eos/releases/tag/v1.2.0)
    * [WASM SDK](https://github.com/EOSIO/eosio.wasmsdk)
    * [EOS Developers telegram](https://t.me/joinchat/EaEnSUPktgfoI-XPfMYtcQ)
+   
+### Day 30: August 16, 2018
+  
+**Today's Progress**: Installed EOS on Linux VM / Started coding a TODO smart contract
+
+**Thoughts**: After installing EOS on a VM I faced the same issues I had when using Docker. CLion didn't have access to all the needed libraries, Compiling still didn't work properly, etc.
+
+At first, EOS looked really awesome and it still is for sure but atm the development workflow is kind of pain. Everything is under heavy development, the docs are sometimes out of date with the latest updates and sometimes when a new update came out you have to rebuild EOS (which takes a lot of time).
+
+Because of this, I am thinking about finishing my new TODO list contract but after that leaving EOS for what it is right now. It learned me a lot of things about, Wallets, Keys, C++ and running your own node so I don't see it as a waste of time. I will definitely keep an eye out for the project but as of right now I will focus on some other cool skills I want to master.
+  
+   **Reference(s)**:
+   * [Setting up EOS on a Linux VM](https://www.youtube.com/watch?v=glB6UPHo1rA)
