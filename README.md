@@ -347,3 +347,16 @@ Because of this, I am thinking about finishing my new TODO list contract but aft
   
    **Reference(s)**:
    * [Setting up EOS on a Linux VM](https://www.youtube.com/watch?v=glB6UPHo1rA)
+   
+### Day 31: August 17, 2018
+  
+**Today's Progress**: Finished coding a TODO smart contract / Updated README's
+
+**Thoughts**: Finished coding a TODO smart contract. I learned about using the multi_index functionality to its full potential by actually defining multiple indexes.
+
+Updated all repos that are specially for this challenge with a footer:
+
+> Part of my [100 days of blockchain code challenge](https://github.com/RoyVoetman/100-days-of-blockchain-code)
+  
+   **Link(s) to work**:
+   * [TODO list smart contract](https://github.com/RoyVoetman/EOSIO-Contracts/tree/master/todo)
