@@ -360,3 +360,12 @@ Updated all repos that are specially for this challenge with a footer:
   
    **Link(s) to work**:
    * [TODO list smart contract](https://github.com/RoyVoetman/EOSIO-Contracts/tree/master/todo)
+   
+### Day 32: August 18, 2018
+  
+**Today's Progress**: Brainstormed about new a new project
+
+**Thoughts**: I really wanted to create a game with blockchain technology and an educational aspect. So I started thinking about the gameplay. When I decided I wanted to make an online card dueling/trading game I started creating a mind map about what the game would look like and what tools I would need for creating it.
+  
+   **Link(s) to work**:
+   * [Mindmap](https://github.com/RoyVoetman/Blockchain-cardgame/blob/master/docs/Mindmap.png)
