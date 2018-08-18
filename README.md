@@ -354,7 +354,7 @@ Because of this, I am thinking about finishing my new TODO list contract but aft
 
 **Thoughts**: Finished coding a TODO smart contract. I learned about using the multi_index functionality to its full potential by actually defining multiple indexes.
 
-Updated all repos that are specially for this challenge with a footer:
+Updated all repos that are especially for this challenge with a footer:
 
 > Part of my [100 days of blockchain code challenge](https://github.com/RoyVoetman/100-days-of-blockchain-code)
   
