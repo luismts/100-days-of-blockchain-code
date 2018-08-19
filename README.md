@@ -368,4 +368,16 @@ Updated all repos that are especially for this challenge with a footer:
 **Thoughts**: I really wanted to create a game with blockchain technology and an educational aspect. So I started thinking about the gameplay. When I decided I wanted to make an online card dueling/trading game I started creating a mind map about what the game would look like and what tools I would need for creating it.
   
    **Link(s) to work**:
-   * [Mindmap](https://github.com/RoyVoetman/Blockchain-cardgame/blob/master/docs/Mindmap.png)
+   * [Mind-map](https://github.com/RoyVoetman/Blockchain-cardgame/blob/master/docs/Mind-map.png)
+   
+### Day 33: August 19, 2018
+  
+**Today's Progress**: Updated mind-map / Read crypto kitties whitepaper
+
+**Thoughts**: After brainstorming about what parts of the application will be open source or closed source I did some research on popular DApp games. Crypto kitties is a very popular project so reading their white-paper can help a lot when I am going to write my own.
+  
+   **Link(s) to work**:
+   * [Mind-map](https://github.com/RoyVoetman/Blockchain-cardgame/blob/master/docs/Mind-map.png)
+   
+   **Reference(s)**:
+   * [Crypto kitties whitepaper](http://upyun-assets.ethfans.org/uploads/doc/file/25583a966d374e30a24262dc5b4c45cd.pdf?_upd=CryptoKitties_WhitePapurr_V2.pdf)
