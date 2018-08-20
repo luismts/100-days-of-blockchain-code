@@ -381,3 +381,12 @@ Updated all repos that are especially for this challenge with a footer:
    
    **Reference(s)**:
    * [Crypto kitties whitepaper](http://upyun-assets.ethfans.org/uploads/doc/file/25583a966d374e30a24262dc5b4c45cd.pdf?_upd=CryptoKitties_WhitePapurr_V2.pdf)
+      
+### Day 34: August 20, 2018
+  
+**Today's Progress**: Started writing a white paper
+
+**Thoughts**: Today I learned a lot about white papers. I have never written a white paper before so I am looking how other crypto projects have written their white papers. Besides that, I tried to come up with a name for the game.
+  
+   **Link(s) to work**:
+   * [White paper](https://github.com/RoyVoetman/Blockchain-cardgame/wiki/Blockchain-card-game-%7C-White-paper)
