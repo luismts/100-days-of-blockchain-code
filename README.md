@@ -390,3 +390,13 @@ Updated all repos that are especially for this challenge with a footer:
   
    **Link(s) to work**:
    * [White paper](https://github.com/RoyVoetman/Blockchain-cardgame/wiki/Blockchain-card-game-%7C-White-paper)
+   
+### Day 35: August 21, 2018
+  
+**Today's Progress**: Started writing the introduction for the white paper
+
+**Thoughts**: When writing the introduction, it really challenged me to visualize what I wanted the game to look like. As for now I still don't really know how the game would look like and what kind of gameplay it would be. I tried to keep the introduction as general as possible so I can come back later and change it when I have a better overview on how the game would exactly look like.
+
+   **Link(s) to work**:
+   * [White paper](https://github.com/RoyVoetman/Blockchain-cardgame/wiki/Blockchain-card-game-%7C-White-paper)
+
