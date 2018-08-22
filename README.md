@@ -404,7 +404,7 @@ Updated all repos that are especially for this challenge with a footer:
   
 **Today's Progress**: Came up with the name! / Brainstormed about the game itself
 
-**Thoughts**: After something I finally got an awesome name: *Etherlanders*.
+**Thoughts**: After some thinking I finally got an awesome name: *Etherlanders*.
 
 I also thought about the game and I came up with the idea to replace the concept of cards with actual 3D Models of the creatures on the cards. This would require a lot a graphical work but definitely the main goal for now, if it's not doable to create 3D Model we could always fall back to just using cards.
 
