@@ -368,7 +368,7 @@ Updated all repos that are especially for this challenge with a footer:
 **Thoughts**: I really wanted to create a game with blockchain technology and an educational aspect. So I started thinking about the gameplay. When I decided I wanted to make an online card dueling/trading game I started creating a mind map about what the game would look like and what tools I would need for creating it.
   
    **Link(s) to work**:
-   * [Mind-map](https://github.com/RoyVoetman/Blockchain-cardgame/blob/master/docs/Mind-map.png)
+   * [Mind-map](https://github.com/RoyVoetman/Etherlanders/blob/master/docs/Mind-map.png)
    
 ### Day 33: August 19, 2018
   
@@ -377,7 +377,7 @@ Updated all repos that are especially for this challenge with a footer:
 **Thoughts**: After brainstorming about what parts of the application will be open source or closed source I did some research on popular DApp games. Crypto kitties is a very popular project so reading their white-paper can help a lot when I am going to write my own.
   
    **Link(s) to work**:
-   * [Mind-map](https://github.com/RoyVoetman/Blockchain-cardgame/blob/master/docs/Mind-map.png)
+   * [Mind-map](https://github.com/RoyVoetman/Etherlanders/blob/master/docs/Mind-map.png)
    
    **Reference(s)**:
    * [Crypto kitties whitepaper](http://upyun-assets.ethfans.org/uploads/doc/file/25583a966d374e30a24262dc5b4c45cd.pdf?_upd=CryptoKitties_WhitePapurr_V2.pdf)
@@ -389,7 +389,7 @@ Updated all repos that are especially for this challenge with a footer:
 **Thoughts**: Today I learned a lot about white papers. I have never written a white paper before so I am looking how other crypto projects have written their white papers. Besides that, I tried to come up with a name for the game.
   
    **Link(s) to work**:
-   * [White paper](https://github.com/RoyVoetman/Blockchain-cardgame/wiki/Blockchain-card-game-%7C-White-paper)
+   * [White paper](https://github.com/RoyVoetman/Etherlanders/wiki/Etherlanders-%7C-White-paper)
    
 ### Day 35: August 21, 2018
   
@@ -398,5 +398,17 @@ Updated all repos that are especially for this challenge with a footer:
 **Thoughts**: When writing the introduction, it really challenged me to visualize what I wanted the game to look like. As for now I still don't really know how the game would look like and what kind of gameplay it would be. I tried to keep the introduction as general as possible so I can come back later and change it when I have a better overview on how the game would exactly look like.
 
    **Link(s) to work**:
-   * [White paper](https://github.com/RoyVoetman/Blockchain-cardgame/wiki/Blockchain-card-game-%7C-White-paper)
+   * [White paper](https://github.com/RoyVoetman/Etherlanders/wiki/Etherlanders-%7C-White-paper)
+   
+### Day 36: August 22, 2018
+  
+**Today's Progress**: Came up with the name! / Brainstormed about the game itself
 
+**Thoughts**: After something I finally got an awesome name: *Etherlanders*.
+
+I also thought about the game and I came up with the idea to replace the concept of cards with actual 3D Models of the creatures on the cards. This would require a lot a graphical work but definitely the main goal for now, if it's not doable to create 3D Model we could always fall back to just using cards.
+
+But moving away from cards also leaves us with a problem, how will the *Etherlanders* be distributed? I have been thinking about replacing the card packs with just packs *or* hatching *Etherlanders* out of eggs *or* selling *Etherlanders* on a marketplace. For now, I haven't decided what to go for and I didn't have time to update the whitepaper so I will leave that for tomorrow.
+
+   **Link(s) to work**:
+   * [Etherlanders repo](https://github.com/RoyVoetman/Etherlanders)
