@@ -412,3 +412,17 @@ But moving away from cards also leaves us with a problem, how will the *Etherlan
 
    **Link(s) to work**:
    * [Etherlanders repo](https://github.com/RoyVoetman/Etherlanders)
+   
+      
+### Day 37: August 23, 2018
+  
+**Today's Progress**: Finished the white papers Introduction
+
+**Thoughts**: Today I took some time to update my mind map with the new ideas from yesterday. I also finished the white papers 'Introduction' section where I was challenged to really think about how I wanted this new concept to work.
+
+To get back to the discussion about how to Etherlanders will be distributed. I choose to replace the card packs with just regular packs whereby each pack contains 1 creature.
+ 
+ **Link(s) to work**:
+ * [White paper](https://github.com/RoyVoetman/Etherlanders/wiki/Etherlanders-%7C-White-paper)
+ * [Mind-map](https://github.com/RoyVoetman/Etherlanders/blob/master/docs/Mind-map.png)
+
