@@ -426,3 +426,13 @@ To get back to the discussion about how to Etherlanders will be distributed. I c
  * [White paper](https://github.com/RoyVoetman/Etherlanders/wiki/Etherlanders-%7C-White-paper)
  * [Mind-map](https://github.com/RoyVoetman/Etherlanders/blob/master/docs/Mind-map.png)
 
+### Day 38: August 24, 2018
+  
+**Today's Progress**: Worked on white paper.
+
+**Thoughts**: Really enjoying this project because I always wanted to create my own fictional world and now I can combine it with programming. 
+
+I also found some friends that want to help further develop this project so looking forward to it!
+ 
+ **Link(s) to work**:
+ * [White paper](https://github.com/RoyVoetman/Etherlanders/wiki/Etherlanders-%7C-White-paper)
