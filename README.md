@@ -436,3 +436,18 @@ I also found some friends that want to help further develop this project so look
  
  **Link(s) to work**:
  * [White paper](https://github.com/RoyVoetman/Etherlanders/wiki/Etherlanders-%7C-White-paper)
+ 
+### Day 39: August 25, 2018
+  
+**Today's Progress**: Improved white papers introduction section / Written white papers Education and Team section.
+
+**Thoughts**: Getting a lot of inspiration by reading white papers of other DApps. Writing a white paper is not only learning me about Blockchain but also about English grammar, documentation and it is learning me about how to make a game in general.
+
+I also like that I reserve at least 1 hour every day to work on this project because other while I know I would have procrastinated on this a lot!
+ 
+  **Reference(s)**:
+  * [Crypto kitties whitepaper](http://upyun-assets.ethfans.org/uploads/doc/file/25583a966d374e30a24262dc5b4c45cd.pdf?_upd=CryptoKitties_WhitePapurr_V2.pdf)
+  * [Ethereum whitepaper](https://github.com/ethereum/wiki/wiki/White-Paper)
+ 
+ **Link(s) to work**:
+ * [White paper](https://github.com/RoyVoetman/Etherlanders/wiki/Etherlanders-%7C-White-paper)
