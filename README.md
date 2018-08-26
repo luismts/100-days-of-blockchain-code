@@ -451,3 +451,12 @@ I also like that I reserve at least 1 hour every day to work on this project bec
  
  **Link(s) to work**:
  * [White paper](https://github.com/RoyVoetman/Etherlanders/wiki/Etherlanders-%7C-White-paper)
+  
+### Day 40: August 26, 2018
+  
+**Today's Progress**: Began writing white papers Future section.
+
+**Thoughts**: Really looking forward to writing the actual story line after I finished the white paper. And I am of course excited about all the new challenges this project will bring.
+ 
+ **Link(s) to work**:
+ * [White paper](https://github.com/RoyVoetman/Etherlanders/wiki/Etherlanders-%7C-White-paper)
