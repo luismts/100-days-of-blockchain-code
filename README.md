@@ -460,3 +460,19 @@ I also like that I reserve at least 1 hour every day to work on this project bec
  
  **Link(s) to work**:
  * [White paper](https://github.com/RoyVoetman/Etherlanders/wiki/Etherlanders-%7C-White-paper)
+ 
+### Day 41: August 27, 2018
+  
+**Today's Progress**: Finished writing white papers Future and Conclusion section.
+
+**Thoughts**: After finishing the white paper, except for the sections battling and puzzles, I started to do some research about creating a fantasy world. There are some great resources out there that help you with questions you have to ask yourself when creating a fantasy world.
+
+The battling and puzzles sections are still to be continued because I haven't figured out yet what the actual game-play will look like. I am planning a brainstorm session with the current team so we can all agree on a fun but also feasible game-play.
+
+  **Reference(s)**:
+  * [Creating a fantasy world?](https://www.nownovel.com/blog/10-questions-ask-fantasy-world/)
+  * [How to create a fantasy world that everyone will believe](https://www.nownovel.com/blog/how-to-create-a-fantasy-world/)
+ 
+ **Link(s) to work**:
+ * [White paper](https://github.com/RoyVoetman/Etherlanders/wiki/Etherlanders-%7C-White-paper)
+ * [Story line](https://github.com/RoyVoetman/Etherlanders/wiki/Etherlanders-%7C-Storyline)
