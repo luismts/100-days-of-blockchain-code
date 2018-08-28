@@ -479,7 +479,7 @@ The battling and puzzles sections are still to be continued because I haven't fi
  
  ### Day 42: August 28, 2018
  
-**Today's Progress**: Finished writing white papers Battle section.
+**Today's Progress**: Finished writing the white papers Battle section.
 
 **Thoughts**: I tried to start on writing the Storyline but I thought it would be more sensible to finish the 'Battling' and 'Puzzles' section first. I didn't want to make the battling to complex because it is not the core aspect of the game. So I looked at how other games integrated a combat-like experience in their game. And created a mix of all the ideas that I liked.
 
