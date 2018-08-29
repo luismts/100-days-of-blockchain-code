@@ -485,3 +485,14 @@ The battling and puzzles sections are still to be continued because I haven't fi
 
  **Link(s) to work**:
  * [White paper](https://github.com/RoyVoetman/Etherlanders/wiki/Etherlanders-%7C-White-paper)
+ 
+  ### Day 43: August 29, 2018
+ 
+**Today's Progress**: Finished writing the white paper! / Added boilerplate code to the project.
+
+**Thoughts**: Really glad about finishing my first white paper although there surely are some sections that could be improved, it still is a big milestone. Next to hitting that milestone I also added the boilerplate to start developing the actual Smart contracts and UI. Really looking forward to coding this DApp.
+
+ **Link(s) to work**:
+ * [White paper](https://github.com/RoyVoetman/Etherlanders/wiki/Etherlanders-%7C-White-paper)
+ * [Etherlanders repo](https://github.com/RoyVoetman/Etherlanders)
+
