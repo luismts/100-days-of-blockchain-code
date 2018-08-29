@@ -124,6 +124,7 @@ Inspired by [Siraj Raval's 100 Days Of ML Code challenge](https://www.youtube.co
   * [https://globalcoinreport.com/eos-vs-neo-which-one-will-replace-ethereum/](https://globalcoinreport.com/eos-vs-neo-which-one-will-replace-ethereum/)
   
 ### Day 12: July 29, 2018
+##### Coding Smart Contracts on EOSIO
    
    **Today's Progress**: Started reading EOS's white paper and doing more research on EOS in general
    
@@ -134,6 +135,7 @@ Inspired by [Siraj Raval's 100 Days Of ML Code challenge](https://www.youtube.co
   * [EOS Whitepaper](https://github.com/EOSIO/Documentation/blob/master/TechnicalWhitePaper.md)
   
 ### Day 13: July 30, 2018
+##### Coding Smart Contracts on EOSIO
    
   **Today's Progress**: Tried setting up EOS development environment.
 
@@ -144,6 +146,7 @@ Inspired by [Siraj Raval's 100 Days Of ML Code challenge](https://www.youtube.co
   * [Docker](https://docs.docker.com/)
   
 ### Day 14: July 31, 2018
+##### Coding Smart Contracts on EOSIO
    
   **Today's Progress**: Continued setting up EOS development environment.
 
@@ -157,6 +160,7 @@ Inspired by [Siraj Raval's 100 Days Of ML Code challenge](https://www.youtube.co
   * [Docker exec](https://docs.docker.com/engine/reference/commandline/exec/)
   
 ### Day 15: August 1, 2018
+##### Coding Smart Contracts on EOSIO
    
   **Today's Progress**: Begon developing HelloWorld smart contract with EOS
 
@@ -168,6 +172,7 @@ Inspired by [Siraj Raval's 100 Days Of ML Code challenge](https://www.youtube.co
   * [Documentation Guide](https://developers.eos.io/eosio-cpp/docs/hello-world)
   
 ### Day 16: August 2, 2018
+##### Coding Smart Contracts on EOSIO
    
  **Today's Progress**: Finished creating HelloWorld contract with EOS and Did more research on using Docker
 
@@ -180,6 +185,7 @@ Inspired by [Siraj Raval's 100 Days Of ML Code challenge](https://www.youtube.co
   * [Hello world smart contract](https://github.com/RoyVoetman/EOS-Starter-kit/tree/master/helloWorld)
   
 ### Day 17: August 3, 2018
+##### Coding Smart Contracts on EOSIO
    
 **Today's Progress**: Finally successfully setup a complete EOS development environment with Docker
 
@@ -191,6 +197,7 @@ After that, I thought that it still didn't work because `cleos wallet list` stil
   * [Learn about wallets keys and accounts with cleos](https://eosio-nodeos.readme.io/docs/learn-about-wallets-keys-and-accounts-with-cleos)
   
   ### Day 18: August 4, 2018
+  ##### Coding Smart Contracts on EOSIO
    
 **Today's Progress**: Read the 'EOS Overview' / Reread 'EOS Getting started guide'.
 
@@ -203,6 +210,7 @@ With my new knowledge, I reread the 'EOS Getting started guide'. Now that I fini
   * [File structure](https://developers.eos.io/eosio-cpp/docs/file-structure)
   
 ### Day 19: August 5, 2018
+##### Coding Smart Contracts on EOSIO
    
 **Today's Progress**: Started following EOS Developement turorial.
 
@@ -213,6 +221,7 @@ With my new knowledge, I reread the 'EOS Getting started guide'. Now that I fini
   
     
 ### Day 20: August 6, 2018
+##### Coding Smart Contracts on EOSIO
    
 **Today's Progress**: Followed C++ tutorials.
 
@@ -223,6 +232,7 @@ With my new knowledge, I reread the 'EOS Getting started guide'. Now that I fini
   * [Derek Banas C++](https://www.youtube.com/watch?v=N5HgK1bTLOg)
   
   ### Day 21: August 7, 2018
+  ##### Coding Smart Contracts on EOSIO
    
 **Today's Progress**: Continued following EOS Developement turorial / Watched EOS Hackethon finals.
 
@@ -233,6 +243,7 @@ With my new knowledge, I reread the 'EOS Getting started guide'. Now that I fini
   * [Hackethon finals](https://www.youtube.com/watch?v=_JIaooJeNdk)
 
   ### Day 22: August 8, 2018
+  ##### Coding Smart Contracts on EOSIO
    
 **Today's Progress**: Moved from using Docker to building from source.
 
@@ -243,6 +254,7 @@ With my new knowledge, I reread the 'EOS Getting started guide'. Now that I fini
   * [Build issue](https://github.com/EOSIO/eos/issues/2392)
   
 ### Day 23: August 9, 2018
+##### Coding Smart Contracts on EOSIO
    
 **Today's Progress**: Followed webinar about developing with EOS / Found out the difference between an OwnerKey and ActiveKey.
 
@@ -253,6 +265,7 @@ With my new knowledge, I reread the 'EOS Getting started guide'. Now that I fini
   * [OwnerKey ActiveKey Reddit](https://www.reddit.com/r/eos/comments/8vl8b1/manage_your_owner_and_active_keypairs_to_get_cold/)
   
 ### Day 24: August 10, 2018
+##### Coding Smart Contracts on EOSIO
 
 **Today's Progress**: Continued following webinar about developing with EOS.
 
@@ -269,6 +282,7 @@ The problem I encountered is that I don't have access to the 'eoslib' inside of 
   * [EOS webinar](https://www.youtube.com/watch?v=E3Tx2DseLGE)
   
   ### Day 25: August 11, 2018
+  ##### Coding Smart Contracts on EOSIO
 
 **Today's Progress**: Finished following webinar about developing with EOS. / Did some research about WASM
 
@@ -282,6 +296,7 @@ I Also, did some research on WASM (WebAssembly) because EOS uses WASM to store c
   * [EOS Developers telegram](https://t.me/joinchat/EaEnSUPktgfoI-XPfMYtcQ)
   
 ### Day 26: August 12, 2018
+##### Coding Smart Contracts on EOSIO
 
 **Today's Progress**: Got started on my own election smart contract for EOS.
 
@@ -295,6 +310,7 @@ I Also, did some research on WASM (WebAssembly) because EOS uses WASM to store c
   * [Smart Contract](https://github.com/RoyVoetman/EOSIO-Contracts/tree/master/election)
   
 ### Day 27: August 13, 2018
+##### Coding Smart Contracts on EOSIO
 
 **Today's Progress**: Implemented voting logic in my election smart contract for EOS.
 
@@ -307,6 +323,7 @@ I Also, did some research on WASM (WebAssembly) because EOS uses WASM to store c
   * [Smart Contract](https://github.com/RoyVoetman/EOSIO-Contracts/tree/master/election)
   
   ### Day 28: August 14, 2018
+  ##### Coding Smart Contracts on EOSIO
   
   **Today's Progress**: Finished my election smart contract for EOS.
   
@@ -321,6 +338,7 @@ I Also, did some research on WASM (WebAssembly) because EOS uses WASM to store c
    * [Smart Contract](https://github.com/RoyVoetman/EOSIO-Contracts/tree/master/election)
     
 ### Day 29: August 15, 2018
+##### Coding Smart Contracts on EOSIO
   
   **Today's Progress**: Uninstalled EOS?!
   
@@ -336,6 +354,7 @@ I Also, did some research on WASM (WebAssembly) because EOS uses WASM to store c
    * [EOS Developers telegram](https://t.me/joinchat/EaEnSUPktgfoI-XPfMYtcQ)
    
 ### Day 30: August 16, 2018
+##### Coding Smart Contracts on EOSIO
   
 **Today's Progress**: Installed EOS on Linux VM / Started coding a TODO smart contract
 
@@ -349,6 +368,7 @@ Because of this, I am thinking about finishing my new TODO list contract but aft
    * [Setting up EOS on a Linux VM](https://www.youtube.com/watch?v=glB6UPHo1rA)
    
 ### Day 31: August 17, 2018
+##### Coding Smart Contracts on EOSIO
   
 **Today's Progress**: Finished coding a TODO smart contract / Updated README's
 
@@ -362,6 +382,7 @@ Updated all repos that are especially for this challenge with a footer:
    * [TODO list smart contract](https://github.com/RoyVoetman/EOSIO-Contracts/tree/master/todo)
    
 ### Day 32: August 18, 2018
+##### Developing my own game on Ethereum
   
 **Today's Progress**: Brainstormed about new a new project
 
@@ -371,6 +392,7 @@ Updated all repos that are especially for this challenge with a footer:
    * [Mind-map](https://github.com/RoyVoetman/Etherlanders/blob/master/docs/Mind-map.png)
    
 ### Day 33: August 19, 2018
+##### Developing my own game on Ethereum
   
 **Today's Progress**: Updated mind-map / Read crypto kitties whitepaper
 
@@ -383,6 +405,7 @@ Updated all repos that are especially for this challenge with a footer:
    * [Crypto kitties whitepaper](http://upyun-assets.ethfans.org/uploads/doc/file/25583a966d374e30a24262dc5b4c45cd.pdf?_upd=CryptoKitties_WhitePapurr_V2.pdf)
       
 ### Day 34: August 20, 2018
+##### Developing my own game on Ethereum
   
 **Today's Progress**: Started writing a white paper
 
@@ -392,6 +415,7 @@ Updated all repos that are especially for this challenge with a footer:
    * [White paper](https://github.com/RoyVoetman/Etherlanders/wiki/Etherlanders-%7C-White-paper)
    
 ### Day 35: August 21, 2018
+##### Developing my own game on Ethereum
   
 **Today's Progress**: Started writing the introduction for the white paper
 
@@ -401,6 +425,7 @@ Updated all repos that are especially for this challenge with a footer:
    * [White paper](https://github.com/RoyVoetman/Etherlanders/wiki/Etherlanders-%7C-White-paper)
    
 ### Day 36: August 22, 2018
+##### Developing my own game on Ethereum
   
 **Today's Progress**: Came up with the name! / Brainstormed about the game itself
 
@@ -415,6 +440,7 @@ But moving away from cards also leaves us with a problem, how will the *Etherlan
    
       
 ### Day 37: August 23, 2018
+##### Developing my own game on Ethereum
   
 **Today's Progress**: Finished the white papers Introduction
 
@@ -427,6 +453,7 @@ To get back to the discussion about how to Etherlanders will be distributed. I c
  * [Mind-map](https://github.com/RoyVoetman/Etherlanders/blob/master/docs/Mind-map.png)
 
 ### Day 38: August 24, 2018
+##### Developing my own game on Ethereum
   
 **Today's Progress**: Worked on white paper.
 
@@ -438,6 +465,7 @@ I also found some friends that want to help further develop this project so look
  * [White paper](https://github.com/RoyVoetman/Etherlanders/wiki/Etherlanders-%7C-White-paper)
  
 ### Day 39: August 25, 2018
+##### Developing my own game on Ethereum
   
 **Today's Progress**: Improved white papers introduction section / Written white papers Education and Team section.
 
@@ -453,6 +481,7 @@ I also like that I reserve at least 1 hour every day to work on this project bec
  * [White paper](https://github.com/RoyVoetman/Etherlanders/wiki/Etherlanders-%7C-White-paper)
   
 ### Day 40: August 26, 2018
+##### Developing my own game on Ethereum
   
 **Today's Progress**: Began writing white papers Future section.
 
@@ -462,6 +491,7 @@ I also like that I reserve at least 1 hour every day to work on this project bec
  * [White paper](https://github.com/RoyVoetman/Etherlanders/wiki/Etherlanders-%7C-White-paper)
  
 ### Day 41: August 27, 2018
+##### Developing my own game on Ethereum
   
 **Today's Progress**: Finished writing white papers Future and Conclusion section.
 
@@ -478,6 +508,7 @@ The battling and puzzles sections are still to be continued because I haven't fi
  * [Story line](https://github.com/RoyVoetman/Etherlanders/wiki/Etherlanders-%7C-Storyline)
  
  ### Day 42: August 28, 2018
+ ##### Developing my own game on Ethereum
  
 **Today's Progress**: Finished writing the white papers Battle section.
 
@@ -487,6 +518,7 @@ The battling and puzzles sections are still to be continued because I haven't fi
  * [White paper](https://github.com/RoyVoetman/Etherlanders/wiki/Etherlanders-%7C-White-paper)
  
   ### Day 43: August 29, 2018
+  ##### Developing my own game on Ethereum
  
 **Today's Progress**: Finished writing the white paper! / Added boilerplate code to the project.
 
