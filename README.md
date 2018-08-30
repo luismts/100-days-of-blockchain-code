@@ -528,3 +528,17 @@ The battling and puzzles sections are still to be continued because I haven't fi
  * [White paper](https://github.com/RoyVoetman/Etherlanders/wiki/Etherlanders-%7C-White-paper)
  * [Etherlanders repo](https://github.com/RoyVoetman/Etherlanders)
 
+### Day 44: August 30, 2018
+##### Developing my own game on Ethereum
+  
+**Today's Progress**: Implemented the OpenZeppelin framework for building secure smart contracts
+
+**Thoughts**: I already new about OpenZeppeling being a framework that helped you write secure smart contracts but I didn't know it did most of the work for you. Right now I only have to extend my contract from the OpenZeppelins `ERC721Token` contract. The only thing I have to after that is to give the token a `name` and a `symbol` and the boilerplate for the `ERC721` token is already set up! And OpenZeppelin works with truffle right out of the box!
+
+  **Reference(s)**:
+  * [Open zeppelin](https://github.com/OpenZeppelin/openzeppelin-solidity)
+  * [The anatomy of ERC721](https://medium.com/crypto-currently/the-anatomy-of-erc721-e9db77abfc24)
+ 
+ **Link(s) to work**:
+ * [Etherlanders repo](https://github.com/RoyVoetman/Etherlanders/)
+
