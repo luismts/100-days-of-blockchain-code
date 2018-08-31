@@ -542,3 +542,16 @@ The battling and puzzles sections are still to be continued because I haven't fi
  **Link(s) to work**:
  * [Etherlanders repo](https://github.com/RoyVoetman/Etherlanders/)
 
+### Day 45: August 31, 2018
+##### Developing my own game on Ethereum
+  
+**Today's Progress**: Implemented minting function / getter function
+
+**Thoughts**: Struggling a bit to get back into the test-driven development work-flow but overall enjoying working on this project. Creating something where the borders are only determined by your own imagination is an amazing experience.
+
+  **Reference(s)**:
+  * [Open zeppelin](https://github.com/OpenZeppelin/openzeppelin-solidity)
+  * [Truffle](https://truffleframework.com/)
+ 
+ **Link(s) to work**:
+ * [Etherlanders repo](https://github.com/RoyVoetman/Etherlanders/)
