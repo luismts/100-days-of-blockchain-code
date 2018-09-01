@@ -555,3 +555,16 @@ The battling and puzzles sections are still to be continued because I haven't fi
  
  **Link(s) to work**:
  * [Etherlanders repo](https://github.com/RoyVoetman/Etherlanders/)
+ 
+ ### Day 46: September 1, 2018
+##### Developing my own game on Ethereum
+  
+**Today's Progress**: Improved minting function / researched cryptokitties smart contract
+
+**Thoughts**: I really love that the Ethereum blockchain is open source because you can look up other smart contracts and learn from how they implemented certain logic. I am struggling a bit with how I want to create the Etherlanders because creating truly random strings or numbers on the blockchain is impossible because every computer on the network needs to run the same code at different times. As for now, I see no other option than including some user-provided number generated client side. I will definitely do more research on this topic.
+
+  **Reference(s)**:
+  * [Crypto kitties smart contract](https://etherscan.io/address/0x06012c8cf97bead5deae237070f9587f8e7a266d#code)
+ 
+ **Link(s) to work**:
+ * [Etherlanders repo](https://github.com/RoyVoetman/Etherlanders/)
