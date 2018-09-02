@@ -568,3 +568,15 @@ The battling and puzzles sections are still to be continued because I haven't fi
  
  **Link(s) to work**:
  * [Etherlanders repo](https://github.com/RoyVoetman/Etherlanders/)
+ 
+### Day 47: September 2, 2018
+##### Developing my own game on Ethereum
+  
+**Today's Progress**: Added attacks and categories to contract / Improved minting function
+
+**Thoughts**: Only owners will be allowed to `mint` new Etherlanders so what I ended up doing is running the `keccak256` function on the provided `_name` parameter. This will give me a bunch of numbers then I will apply modules on the result to get the preferred amount of numbers.
+
+I also found out that it is also good to keep in mind that every computation in Solditiy costs gas. I will have to research how to optimize my code so it will cost less gas. It really is a different mindset you have to get into.
+ 
+ **Link(s) to work**:
+ * [Etherlanders repo](https://github.com/RoyVoetman/Etherlanders/)
