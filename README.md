@@ -580,3 +580,16 @@ I also found out that it is also good to keep in mind that every computation in 
  
  **Link(s) to work**:
  * [Etherlanders repo](https://github.com/RoyVoetman/Etherlanders/)
+ 
+### Day 48: September 3, 2018
+##### Developing my own game on Ethereum
+  
+**Today's Progress**: Found out about CryptoZombies / Added NewEtherlander event
+
+**Thoughts**: Follow a few lessons from cryptozombies, a website where you can learn to build your own game with Solidity. I also added a new event but when I tried to write a test for it I got stuck. Later I found out that the ERC721 token also triggers a Transfer event and I didn't account for that in my test. 
+
+ **Reference(s)**:
+ * [Crypto zombies](https://cryptozombies.io/)
+ 
+ **Link(s) to work**:
+ * [Etherlanders repo](https://github.com/RoyVoetman/Etherlanders/)
