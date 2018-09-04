@@ -593,3 +593,17 @@ I also found out that it is also good to keep in mind that every computation in 
  
  **Link(s) to work**:
  * [Etherlanders repo](https://github.com/RoyVoetman/Etherlanders/)
+ 
+ ### Day 49: September 4, 2018
+##### Developing my own game on Ethereum
+  
+**Today's Progress**: Begon writing storyline
+
+**Thoughts**: I really love exploring the galaxy and that is why I want to bring that passion to life in the story line. I will definitely do more research on the expansion our sun will go through when it has fused all of its hydrogen. Still, love working on this project and still like the idea of working on it every day for 1 hour so you really see progress has been made.
+
+ **Reference(s)**:
+ * [Will Earth survive when the sun becomes a red giant?](https://phys.org/news/2016-05-earth-survive-sun-red-giant.html)
+ * [Red giant stars](https://www.space.com/22471-red-giant-stars.html)
+ 
+ **Link(s) to work**:
+ * [Etherlanders repo](https://github.com/RoyVoetman/Etherlanders/)
