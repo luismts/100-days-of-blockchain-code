@@ -606,4 +606,20 @@ I also found out that it is also good to keep in mind that every computation in 
  * [Red giant stars](https://www.space.com/22471-red-giant-stars.html)
  
  **Link(s) to work**:
- * [Etherlanders repo](https://github.com/RoyVoetman/Etherlanders/)
+ * [Etherlanders Storyline](https://github.com/RoyVoetman/Etherlanders/wiki/Etherlanders-%7C-Storyline)
+ 
+### Day 50: September 5, 2018
+##### Developing my own game on Ethereum
+  
+**Today's Progress**: Finished history section of the storyline.
+
+**Thoughts**: After finishing the history section of the storyline I wanted to know more about where to start when I want to create a map for the world. I found a great video series that I started watching. I hope that in a few days I will have a map of the world but I still haven't figured out what kind of landscape the Earth will be.
+
+So there are some challenges on the road but I like challenges and I am interested to see the solutions I will come up with.
+
+ **Reference(s)**:
+ * [Drawing a Fantasy Map](https://www.youtube.com/watch?v=p1eo-SzLCcY)
+ * [How to build a fictional world - Kate Messner](https://www.youtube.com/watch?v=ZQTQSbjecLg)
+ 
+ **Link(s) to work**:
+ * [Etherlanders Storyline](https://github.com/RoyVoetman/Etherlanders/wiki/Etherlanders-%7C-Storyline)
