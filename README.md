@@ -623,3 +623,18 @@ So there are some challenges on the road but I like challenges and I am interest
  
  **Link(s) to work**:
  * [Etherlanders Storyline](https://github.com/RoyVoetman/Etherlanders/wiki/Etherlanders-%7C-Storyline)
+
+> Missed **September 6** due to personal reasons
+
+### Day 51: September 7, 2018
+
+**Today's Progress**: Followed YouTube tutorials to deepen my understanding of working with OpenZeppelin
+
+**Thoughts**: Although this video series isn't about an ERC721 token it still learned me a lot about how to work with the openzeppelin library. Looking at the openzeppelin library on GitHub is also a great resource because you can see how they test their contracts.
+
+I already made use of the `async await` syntax but I use `it()` for every assertion but they also use `describe` and `context` nested around a group of `it()` assertions. And the use of the `beforeEach()` function is also really powerful for logic that needs to be executed before every test (e.g. retrieving the contract instance).
+
+ **Reference(s)**:
+ * [Youtube video 1](https://www.youtube.com/watch?v=2IqsgSyA8BQ)
+ * [Youtube video 2](https://www.youtube.com/watch?v=ir-IRmMTG4Q)
+ * [OpenZeppelin](https://github.com/OpenZeppelin/openzeppelin-solidity)
