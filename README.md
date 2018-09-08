@@ -638,3 +638,14 @@ I already made use of the `async await` syntax but I use `it()` for every assert
  * [Youtube video 1](https://www.youtube.com/watch?v=2IqsgSyA8BQ)
  * [Youtube video 2](https://www.youtube.com/watch?v=ir-IRmMTG4Q)
  * [OpenZeppelin](https://github.com/OpenZeppelin/openzeppelin-solidity)
+ 
+ ### Day 52: September 8, 2018
+
+**Today's Progress**: Refactored unit tests
+
+**Thoughts**: Put the new knowledge to use by refactoring all the existing unit tests to the new design pattern (i.e. the use of `describe`, `context`, `it`, etc.). 
+
+Again the OpenZeppelin library was very helpful. They gave me the idea of renaming the `modules` folder to the `helpers` folder and renaming the `Try` module/helper to `assertRevert`. 
+
+ **Reference(s)**:
+ * [OpenZeppelin unit tests](https://github.com/OpenZeppelin/openzeppelin-solidity/tree/master/test)
