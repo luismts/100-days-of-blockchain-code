@@ -640,6 +640,7 @@ I already made use of the `async await` syntax but I use `it()` for every assert
  * [OpenZeppelin](https://github.com/OpenZeppelin/openzeppelin-solidity)
  
  ### Day 52: September 8, 2018
+ ##### Developing my own game on Ethereum
 
 **Today's Progress**: Refactored unit tests
 
@@ -652,6 +653,7 @@ Again the OpenZeppelin library was very helpful. They gave me the idea of renami
  
  
  ### Day 53: September 9, 2018
+ ##### Developing my own game on Ethereum
 
 **Today's Progress**: Documented all smart contract functions / Added getEtherlanderByAddress function
 
