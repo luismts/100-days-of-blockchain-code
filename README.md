@@ -649,3 +649,16 @@ Again the OpenZeppelin library was very helpful. They gave me the idea of renami
 
  **Reference(s)**:
  * [OpenZeppelin unit tests](https://github.com/OpenZeppelin/openzeppelin-solidity/tree/master/test)
+ 
+ 
+ ### Day 53: September 9, 2018
+
+**Today's Progress**: Documented all smart contract functions / Added getEtherlanderByAddress function
+
+**Thoughts**: Learned about asserting arrays with the '.should' design pattern (`array1.should.deep.equal(array2)`). And I found out that `solc` (i.e. The solidity compiler) actually looks at the documentation blocks if you use the `@param` and `@return` syntax, this prevents your doc blocks becoming out of date when you forget to update them.
+
+ **Reference(s)**:
+ * [OpenZeppelin unit tests](https://github.com/OpenZeppelin/openzeppelin-solidity/tree/master/test)
+  
+ **Link(s) to work**:
+ * [Etherlanders repo](https://github.com/RoyVoetman/Etherlanders/)
