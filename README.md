@@ -114,7 +114,7 @@ Inspired by [Siraj Raval's 100 Days Of ML Code challenge](https://www.youtube.co
   
  ### Day 11: July 28, 2018
    
-   **Today's Progress**: Did research on NEO and EOS and what these technologies bring to the crypto space
+   **Today's Progress**: Did research on NEO and EOS and what these technologies bring to the crypto space.
    
    **Thoughts**: I personally think if Etheruem doesn't start improving it will be replaced by either NEO or EOS. My personal interest goes to EOS because of its low feeds and the use of an improved consensus protocol over regular PoS.
    
@@ -126,7 +126,7 @@ Inspired by [Siraj Raval's 100 Days Of ML Code challenge](https://www.youtube.co
 ### Day 12: July 29, 2018
 ##### Coding Smart Contracts on EOSIO
    
-   **Today's Progress**: Started reading EOS's white paper and doing more research on EOS in general
+   **Today's Progress**: Started reading EOS's white paper and doing more research on EOS in general.
    
    **Thoughts**: I think there is a very high potential for EOS to grow in the next few months/years. Really excited to see what will happen over time. I will definitely look into developing DApps for EOS.
    
@@ -162,7 +162,7 @@ Inspired by [Siraj Raval's 100 Days Of ML Code challenge](https://www.youtube.co
 ### Day 15: August 1, 2018
 ##### Coding Smart Contracts on EOSIO
    
-  **Today's Progress**: Begon developing HelloWorld smart contract with EOS
+  **Today's Progress**: Begon developing HelloWorld smart contract with EOS.
 
   **Thoughts**: Found out how to access the terminal of your Docker container and used the `eosiocpp` compiler (also added an alias to my `.zshrc` file). I struggled a bit with keeping track of all my different PKeys and SKeys all my different accounts but everything is very well documented so I am still excited to learn more!
    * `docker exec -it <container_id> /bin/bash`
@@ -174,7 +174,7 @@ Inspired by [Siraj Raval's 100 Days Of ML Code challenge](https://www.youtube.co
 ### Day 16: August 2, 2018
 ##### Coding Smart Contracts on EOSIO
    
- **Today's Progress**: Finished creating HelloWorld contract with EOS and Did more research on using Docker
+ **Today's Progress**: Finished creating HelloWorld contract with EOS and Did more research on using Docker.
 
  **Thoughts**: Found out about Dockers `-v` flag for `VOLUME (shared filesystems)` this prevents u having to rebuild the Docker image every time you make a change to your code. This makes the Docker developing experience way better.
    
@@ -187,7 +187,7 @@ Inspired by [Siraj Raval's 100 Days Of ML Code challenge](https://www.youtube.co
 ### Day 17: August 3, 2018
 ##### Coding Smart Contracts on EOSIO
    
-**Today's Progress**: Finally successfully setup a complete EOS development environment with Docker
+**Today's Progress**: Finally successfully setup a complete EOS development environment with Docker.
 
 **Thoughts**: Yesterday I already had a 'working' development environment but my wallets didn't sync with my local environment so every time I booted up the docker image I would need to recreate all my wallets/keys. I finally solved this by reading the in-depth documentation about `cleos` and `keosd`. When I knew where the wallets/keys where stored I added a `-v` flag so that the folder would sync to my local environment.
 
@@ -284,7 +284,7 @@ The problem I encountered is that I don't have access to the 'eoslib' inside of 
   ### Day 25: August 11, 2018
   ##### Coding Smart Contracts on EOSIO
 
-**Today's Progress**: Finished following webinar about developing with EOS. / Did some research about WASM
+**Today's Progress**: Finished following webinar about developing with EOS. / Did some research about WASM.
 
 **Thoughts**: After the webinar, there was a Q&A and that really help to solve some questions I have been having. They also pointed me out to an `EOS Developers` telegram group which is the perfect place to ask your questions about EOS development.
 
@@ -356,7 +356,7 @@ I Also, did some research on WASM (WebAssembly) because EOS uses WASM to store c
 ### Day 30: August 16, 2018
 ##### Coding Smart Contracts on EOSIO
   
-**Today's Progress**: Installed EOS on Linux VM / Started coding a TODO smart contract
+**Today's Progress**: Installed EOS on Linux VM / Started coding a TODO smart contract.
 
 **Thoughts**: After installing EOS on a VM I faced the same issues I had when using Docker. CLion didn't have access to all the needed libraries, Compiling still didn't work properly, etc.
 
@@ -370,7 +370,7 @@ Because of this, I am thinking about finishing my new TODO list contract but aft
 ### Day 31: August 17, 2018
 ##### Coding Smart Contracts on EOSIO
   
-**Today's Progress**: Finished coding a TODO smart contract / Updated README's
+**Today's Progress**: Finished coding a TODO smart contract / Updated README's.
 
 **Thoughts**: Finished coding a TODO smart contract. I learned about using the multi_index functionality to its full potential by actually defining multiple indexes.
 
@@ -384,7 +384,7 @@ Updated all repos that are especially for this challenge with a footer:
 ### Day 32: August 18, 2018
 ##### Developing my own game on Ethereum
   
-**Today's Progress**: Brainstormed about new a new project
+**Today's Progress**: Brainstormed about new a new project.
 
 **Thoughts**: I really wanted to create a game with blockchain technology and an educational aspect. So I started thinking about the gameplay. When I decided I wanted to make an online card dueling/trading game I started creating a mind map about what the game would look like and what tools I would need for creating it.
   
@@ -394,7 +394,7 @@ Updated all repos that are especially for this challenge with a footer:
 ### Day 33: August 19, 2018
 ##### Developing my own game on Ethereum
   
-**Today's Progress**: Updated mind-map / Read crypto kitties whitepaper
+**Today's Progress**: Updated mind-map / Read crypto kitties whitepaper.
 
 **Thoughts**: After brainstorming about what parts of the application will be open source or closed source I did some research on popular DApp games. Crypto kitties is a very popular project so reading their white-paper can help a lot when I am going to write my own.
   
@@ -407,7 +407,7 @@ Updated all repos that are especially for this challenge with a footer:
 ### Day 34: August 20, 2018
 ##### Developing my own game on Ethereum
   
-**Today's Progress**: Started writing a white paper
+**Today's Progress**: Started writing a white paper.
 
 **Thoughts**: Today I learned a lot about white papers. I have never written a white paper before so I am looking how other crypto projects have written their white papers. Besides that, I tried to come up with a name for the game.
   
@@ -417,7 +417,7 @@ Updated all repos that are especially for this challenge with a footer:
 ### Day 35: August 21, 2018
 ##### Developing my own game on Ethereum
   
-**Today's Progress**: Started writing the introduction for the white paper
+**Today's Progress**: Started writing the introduction for the white paper.
 
 **Thoughts**: When writing the introduction, it really challenged me to visualize what I wanted the game to look like. As for now I still don't really know how the game would look like and what kind of gameplay it would be. I tried to keep the introduction as general as possible so I can come back later and change it when I have a better overview on how the game would exactly look like.
 
@@ -427,7 +427,7 @@ Updated all repos that are especially for this challenge with a footer:
 ### Day 36: August 22, 2018
 ##### Developing my own game on Ethereum
   
-**Today's Progress**: Came up with the name! / Brainstormed about the game itself
+**Today's Progress**: Came up with the name! / Brainstormed about the game itself.
 
 **Thoughts**: After some thinking I finally got an awesome name: *Etherlanders*.
 
@@ -442,7 +442,7 @@ But moving away from cards also leaves us with a problem, how will the *Etherlan
 ### Day 37: August 23, 2018
 ##### Developing my own game on Ethereum
   
-**Today's Progress**: Finished the white papers Introduction
+**Today's Progress**: Finished the white papers Introduction.
 
 **Thoughts**: Today I took some time to update my mind map with the new ideas from yesterday. I also finished the white papers 'Introduction' section where I was challenged to really think about how I wanted this new concept to work.
 
@@ -531,7 +531,7 @@ The battling and puzzles sections are still to be continued because I haven't fi
 ### Day 44: August 30, 2018
 ##### Developing my own game on Ethereum
   
-**Today's Progress**: Implemented the OpenZeppelin framework for building secure smart contracts
+**Today's Progress**: Implemented the OpenZeppelin framework for building secure smart contracts.
 
 **Thoughts**: I already new about OpenZeppeling being a framework that helped you write secure smart contracts but I didn't know it did most of the work for you. Right now I only have to extend my contract from the OpenZeppelins `ERC721Token` contract. The only thing I have to after that is to give the token a `name` and a `symbol` and the boilerplate for the `ERC721` token is already set up! And OpenZeppelin works with truffle right out of the box!
 
@@ -545,7 +545,7 @@ The battling and puzzles sections are still to be continued because I haven't fi
 ### Day 45: August 31, 2018
 ##### Developing my own game on Ethereum
   
-**Today's Progress**: Implemented minting function / getter function
+**Today's Progress**: Implemented minting function / getter function.
 
 **Thoughts**: Struggling a bit to get back into the test-driven development work-flow but overall enjoying working on this project. Creating something where the borders are only determined by your own imagination is an amazing experience.
 
@@ -559,7 +559,7 @@ The battling and puzzles sections are still to be continued because I haven't fi
  ### Day 46: September 1, 2018
 ##### Developing my own game on Ethereum
   
-**Today's Progress**: Improved minting function / researched cryptokitties smart contract
+**Today's Progress**: Improved minting function / researched cryptokitties smart contract.
 
 **Thoughts**: I really love that the Ethereum blockchain is open source because you can look up other smart contracts and learn from how they implemented certain logic. I am struggling a bit with how I want to create the Etherlanders because creating truly random strings or numbers on the blockchain is impossible because every computer on the network needs to run the same code at different times. As for now, I see no other option than including some user-provided number generated client side. I will definitely do more research on this topic.
 
@@ -572,7 +572,7 @@ The battling and puzzles sections are still to be continued because I haven't fi
 ### Day 47: September 2, 2018
 ##### Developing my own game on Ethereum
   
-**Today's Progress**: Added attacks and categories to contract / Improved minting function
+**Today's Progress**: Added attacks and categories to contract / Improved minting function.
 
 **Thoughts**: Only owners will be allowed to `mint` new Etherlanders so what I ended up doing is running the `keccak256` function on the provided `_name` parameter. This will give me a bunch of numbers then I will apply modules on the result to get the preferred amount of numbers.
 
@@ -584,7 +584,7 @@ I also found out that it is also good to keep in mind that every computation in 
 ### Day 48: September 3, 2018
 ##### Developing my own game on Ethereum
   
-**Today's Progress**: Found out about CryptoZombies / Added NewEtherlander event
+**Today's Progress**: Found out about CryptoZombies / Added NewEtherlander event.
 
 **Thoughts**: Follow a few lessons from cryptozombies, a website where you can learn to build your own game with Solidity. I also added a new event but when I tried to write a test for it I got stuck. Later I found out that the ERC721 token also triggers a Transfer event and I didn't account for that in my test. 
 
@@ -597,7 +597,7 @@ I also found out that it is also good to keep in mind that every computation in 
  ### Day 49: September 4, 2018
 ##### Developing my own game on Ethereum
   
-**Today's Progress**: Begon writing storyline
+**Today's Progress**: Started writing storyline.
 
 **Thoughts**: I really love exploring the galaxy and that is why I want to bring that passion to life in the story line. I will definitely do more research on the expansion our sun will go through when it has fused all of its hydrogen. Still, love working on this project and still like the idea of working on it every day for 1 hour so you really see progress has been made.
 
@@ -628,7 +628,7 @@ So there are some challenges on the road but I like challenges and I am interest
 
 ### Day 51: September 7, 2018
 
-**Today's Progress**: Followed YouTube tutorials to deepen my understanding of working with OpenZeppelin
+**Today's Progress**: Followed YouTube tutorials to deepen my understanding of working with OpenZeppelin.
 
 **Thoughts**: Although this video series isn't about an ERC721 token it still learned me a lot about how to work with the openzeppelin library. Looking at the openzeppelin library on GitHub is also a great resource because you can see how they test their contracts.
 
@@ -642,7 +642,7 @@ I already made use of the `async await` syntax but I use `it()` for every assert
  ### Day 52: September 8, 2018
  ##### Developing my own game on Ethereum
 
-**Today's Progress**: Refactored unit tests
+**Today's Progress**: Refactored unit tests.
 
 **Thoughts**: Put the new knowledge to use by refactoring all the existing unit tests to the new design pattern (i.e. the use of `describe`, `context`, `it`, etc.). 
 
@@ -655,12 +655,24 @@ Again the OpenZeppelin library was very helpful. They gave me the idea of renami
  ### Day 53: September 9, 2018
  ##### Developing my own game on Ethereum
 
-**Today's Progress**: Documented all smart contract functions / Added getEtherlanderByAddress function
+**Today's Progress**: Documented all smart contract functions / Added getEtherlanderByAddress function.
 
 **Thoughts**: Learned about asserting arrays with the '.should' design pattern (`array1.should.deep.equal(array2)`). And I found out that `solc` (i.e. The solidity compiler) actually looks at the documentation blocks if you use the `@param` and `@return` syntax, this prevents your doc blocks becoming out of date when you forget to update them.
 
  **Reference(s)**:
  * [OpenZeppelin unit tests](https://github.com/OpenZeppelin/openzeppelin-solidity/tree/master/test)
+  
+ **Link(s) to work**:
+ * [Etherlanders repo](https://github.com/RoyVoetman/Etherlanders/)
+ 
+ ### Day 54: September 9, 2018
+ ##### Developing my own game on Ethereum
+
+**Today's Progress**: Improved smart contract logic for better integration with the ERC721 token standard.
+
+**Thoughts**: I refactored some smart contract logic because it was redundant, apparently it was already taken care of by the OpenZeppelins ERC721 token smart contract.
+
+And I learned about how to assert that a variable is a certain data-type with `variable.should.be.an('datatype');`.
   
  **Link(s) to work**:
  * [Etherlanders repo](https://github.com/RoyVoetman/Etherlanders/)
