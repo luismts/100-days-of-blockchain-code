@@ -665,7 +665,7 @@ Again the OpenZeppelin library was very helpful. They gave me the idea of renami
  **Link(s) to work**:
  * [Etherlanders repo](https://github.com/RoyVoetman/Etherlanders/)
  
- ### Day 54: September 9, 2018
+ ### Day 54: September 10, 2018
  ##### Developing my own game on Ethereum
 
 **Today's Progress**: Improved smart contract logic for better integration with the ERC721 token standard.
