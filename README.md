@@ -556,7 +556,7 @@ The battling and puzzles sections are still to be continued because I haven't fi
  **Link(s) to work**:
  * [Etherlanders repo](https://github.com/RoyVoetman/Etherlanders/)
  
- ### Day 46: September 1, 2018
+### Day 46: September 1, 2018
 ##### Developing my own game on Ethereum
   
 **Today's Progress**: Improved minting function / researched cryptokitties smart contract.
@@ -594,7 +594,7 @@ I also found out that it is also good to keep in mind that every computation in 
  **Link(s) to work**:
  * [Etherlanders repo](https://github.com/RoyVoetman/Etherlanders/)
  
- ### Day 49: September 4, 2018
+### Day 49: September 4, 2018
 ##### Developing my own game on Ethereum
   
 **Today's Progress**: Started writing storyline.
@@ -674,5 +674,19 @@ Again the OpenZeppelin library was very helpful. They gave me the idea of renami
 
 And I learned about how to assert that a variable is a certain data-type with `variable.should.be.an('datatype');`.
   
+ **Link(s) to work**:
+ * [Etherlanders repo](https://github.com/RoyVoetman/Etherlanders/)
+ 
+ ### Day 55: September 11, 2018
+ ##### Developing my own game on Ethereum
+
+**Today's Progress**: Added a BuyTokens function / Continued watching  youtube tutorial series
+
+**Thoughts**: Today I struggled a bit with testing if a function returned an integer/number. Of course with web3 the function will return a `BigNumber` but even after calling the `.toNumber()` function on it `variable.should.be.an('integer');` still didn't work. As it turns out, JavaScript doesn't have a separate `integer` type. Everything is a floating point number, which would be of data type number.
+  
+ **Reference(s)**:
+ * [Unit testing integers](https://stackoverflow.com/questions/23597475/chai-unittesting-expect42-to-be-aninteger/23597645)
+ * [YouTube video 3](https://www.youtube.com/watch?v=wfzTtbZEJP8&index=3&list=PLS5SEs8ZftgULF-lbxy-is9x_7mTMHFIN)
+ 
  **Link(s) to work**:
  * [Etherlanders repo](https://github.com/RoyVoetman/Etherlanders/)
