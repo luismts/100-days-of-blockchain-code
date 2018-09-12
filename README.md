@@ -690,3 +690,17 @@ And I learned about how to assert that a variable is a certain data-type with `v
  
  **Link(s) to work**:
  * [Etherlanders repo](https://github.com/RoyVoetman/Etherlanders/)
+ 
+  ### Day 56: September 12, 2018
+ ##### Developing my own game on Ethereum
+
+**Today's Progress**: Read article series about the ERC721 standard
+
+**Thoughts**: Learned about why the ERC721 token standard requires the ERC165 token standard. Luckily it's not rocket science. The ERC165 token standard interface only has one function `supportsInterface`. I quote:
+
+> The ERC165 Standard is just a way of checking if your contract’s fingerprints match the fingerprint of any given interface.
+  
+ **Reference(s)**:
+ * [Part 1](https://medium.com/coinmonks/jumping-into-solidity-the-erc721-standard-part-1-e25b67fc91f3)
+ * [Part 2](https://medium.com/coinmonks/jumping-into-solidity-the-erc721-standard-part-2-383438734de5)
+ * [Part 3](https://medium.com/coinmonks/jumping-into-solidity-the-erc721-standard-part-3-5f38e012248b)
