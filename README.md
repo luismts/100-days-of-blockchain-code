@@ -704,3 +704,13 @@ And I learned about how to assert that a variable is a certain data-type with `v
  * [Part 1](https://medium.com/coinmonks/jumping-into-solidity-the-erc721-standard-part-1-e25b67fc91f3)
  * [Part 2](https://medium.com/coinmonks/jumping-into-solidity-the-erc721-standard-part-2-383438734de5)
  * [Part 3](https://medium.com/coinmonks/jumping-into-solidity-the-erc721-standard-part-3-5f38e012248b)
+ 
+ ### Day 57: September 12, 2018
+ ##### Developing my own game on Ethereum
+
+**Today's Progress**: Added psuedo random number generation function
+
+**Thoughts**: Added a pseudo-random number generator for calculating the starting stats for an Etherlander. I am not using it for the selection of etherlanders because I want that functionality to be as decentralized as possible.
+  
+ **Reference(s)**:
+ * [Pseudo Random Number Generator](https://ethereum.stackexchange.com/questions/57282/any-pseudo-random-number-generator-that-can-generate-different-numbers-in-the-sa)
