@@ -705,7 +705,7 @@ And I learned about how to assert that a variable is a certain data-type with `v
  * [Part 2](https://medium.com/coinmonks/jumping-into-solidity-the-erc721-standard-part-2-383438734de5)
  * [Part 3](https://medium.com/coinmonks/jumping-into-solidity-the-erc721-standard-part-3-5f38e012248b)
  
- ### Day 57: September 12, 2018
+ ### Day 57: September 13, 2018
  ##### Developing my own game on Ethereum
 
 **Today's Progress**: Added psuedo random number generation function
