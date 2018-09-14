@@ -714,3 +714,16 @@ And I learned about how to assert that a variable is a certain data-type with `v
   
  **Reference(s)**:
  * [Pseudo Random Number Generator](https://ethereum.stackexchange.com/questions/57282/any-pseudo-random-number-generator-that-can-generate-different-numbers-in-the-sa)
+ 
+ ### Day 58: September 14, 2018
+ ##### Developing my own game on Ethereum
+
+**Today's Progress**: Continued reading article series about the ERC721 standard
+
+**Thoughts**: Learned about the Metadata and Enumerable extensions. Before reading the artlces I didn't even know what extensions meant in the context of Solidity developement. It turns out you can extend your contract on these extensions on top of the already extended ERC721 token standard. This will provided you which some extra functions.
+  
+ **Reference(s)**:
+ * [Part 4](https://medium.com/coinmonks/jumping-into-solidity-the-erc721-standard-part-4-ad21e3a5d9c)
+ * [Part 5](https://medium.com/coinmonks/jumping-into-solidity-the-erc721-standard-part-5-3b91f39fc1ee)
+ * [Part 6](https://medium.com/coinmonks/jumping-into-solidity-the-erc721-standard-part-6-7ea4af3366fd)
+ * [Part 7](https://medium.com/coinmonks/jumping-into-solidity-the-erc721-standard-part-7-9aca1411375a)
