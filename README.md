@@ -727,3 +727,15 @@ And I learned about how to assert that a variable is a certain data-type with `v
  * [Part 5](https://medium.com/coinmonks/jumping-into-solidity-the-erc721-standard-part-5-3b91f39fc1ee)
  * [Part 6](https://medium.com/coinmonks/jumping-into-solidity-the-erc721-standard-part-6-7ea4af3366fd)
  * [Part 7](https://medium.com/coinmonks/jumping-into-solidity-the-erc721-standard-part-7-9aca1411375a)
+ 
+ ### Day 59: September 15, 2018
+ ##### Decentralized Applications course
+
+**Today's Progress**: Enrolled in a new course given by Siraj Raval about Decentralized Applications.
+
+**Thoughts**: Got a deeper understanding about how Ethereum works under the hood. Learned about the Ethereum Virual Machine (EVM) and that the Ethereum blockchain doesn't store Solidity but a low level language called the EVM bytecode.
+
+From now on I will swithc between working on this course and working on Etherlanders.
+  
+ **Reference(s)**:
+ * [The course](https://www.theschool.ai/courses/decentralized-application/)
