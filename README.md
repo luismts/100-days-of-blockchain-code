@@ -733,9 +733,22 @@ And I learned about how to assert that a variable is a certain data-type with `v
 
 **Today's Progress**: Enrolled in a new course given by Siraj Raval about Decentralized Applications.
 
-**Thoughts**: Got a deeper understanding about how Ethereum works under the hood. Learned about the Ethereum Virual Machine (EVM) and that the Ethereum blockchain doesn't store Solidity but a low level language called the EVM bytecode.
+**Thoughts**: Got a deeper understanding about how Ethereum works under the hood. Learned about the Ethereum Virual Machine (EVM) and that the Ethereum blockchain doesn't store Solidity doe but a low level language called EVM bytecode.
 
-From now on I will swithc between working on this course and working on Etherlanders.
+From now on I will switch between working on this course and working on Etherlanders.
   
  **Reference(s)**:
  * [The course](https://www.theschool.ai/courses/decentralized-application/)
+ 
+ ### Day 60: September 16, 2018
+ ##### Decentralized Applications course
+
+**Today's Progress**: Learned about Whisper.
+
+**Thoughts**: Whisper is an off chain communication protocol for DApps to communicate with each other. DApps can publish small amounts of information to each other for a certain amount of time. In general, think transactions, but without the eventual archival, any necessity of being bound to what is said or automated execution & state change.
+
+Think about DApps that need to signal to each other in order to ultimately collaborate on a transaction.
+  
+ **Reference(s)**:
+ * [The course](https://www.theschool.ai/courses/decentralized-application/)
+ * [Whisper](https://github.com/ethereum/wiki/wiki/Whisper)
