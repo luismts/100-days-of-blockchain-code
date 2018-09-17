@@ -752,3 +752,16 @@ Think about DApps that need to signal to each other in order to ultimately colla
  **Reference(s)**:
  * [The course](https://www.theschool.ai/courses/decentralized-application/)
  * [Whisper](https://github.com/ethereum/wiki/wiki/Whisper)
+ 
+ ### Day 61: September 17, 2018
+ ##### Decentralized Applications course
+
+**Today's Progress**: Learned about Decentralized Games.
+
+**Thoughts**: The Decentralized Applications has a chapter committed to 'Decentralized Games'. In this chapter: they explained how CryptoKitties works under the hood, showed examples of successful games already developed, and they talked about how to use Ethereum and the Unity3D game engine together.
+
+This chapter also includes a midterm project so I am going to hand in the Etherlanders project when it is done, this provides a nice way of combining taking this course and working on Etherlanders.
+  
+ **Reference(s)**:
+ * [The course](https://www.theschool.ai/courses/decentralized-application/)
+ * [Cryptokitties](https://etherscan.io/address/0xda9c03dfd4d137f926c3cf6953cb951832eb08b2#code)
