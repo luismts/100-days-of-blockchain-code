@@ -765,3 +765,17 @@ This chapter also includes a midterm project so I am going to hand in the Etherl
  **Reference(s)**:
  * [The course](https://www.theschool.ai/courses/decentralized-application/)
  * [Cryptokitties](https://etherscan.io/address/0xda9c03dfd4d137f926c3cf6953cb951832eb08b2#code)
+ 
+ ### Day 62: September 18, 2018
+ ##### Decentralized Applications course
+
+**Today's Progress**: Read articles about blockchain development best praticises from Consensys.
+
+**Thoughts**: Consensys also has a section dedicated about random number generation. This is great because I need to implement this in `Etherlanders`. It says that renarating random numbers is an area of active research so there is no best solution (yet).
+
+> Current best-in-class solutions include Bitcoin block headers (verified through [http://btcrelay.org](http://btcrelay.org))
+  
+ **Reference(s)**:
+ * [The course](https://www.theschool.ai/courses/decentralized-application/)
+ * [Consensys](https://consensys.github.io/smart-contract-best-practices/recommendations/#remember-that-on-chain-data-is-public)
+ * [RANDAO](https://github.com/randao/randao)
