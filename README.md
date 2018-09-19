@@ -779,3 +779,17 @@ This chapter also includes a midterm project so I am going to hand in the Etherl
  * [The course](https://www.theschool.ai/courses/decentralized-application/)
  * [Consensys](https://consensys.github.io/smart-contract-best-practices/recommendations/#remember-that-on-chain-data-is-public)
  * [RANDAO](https://github.com/randao/randao)
+ 
+ ### Day 63: September 19, 2018
+ ##### Decentralized Applications course
+
+**Today's Progress**: Read about Ethereum best practices
+
+**Thoughts**: Read about the locking pragmas to a specific version. If you don't use the `^` sign before the version number in your smart contract, it will always use that specific version.
+
+Also, read about the best practices of starting all your event names with 'Log' for example `LogNewEtherlander` this prevents confusion with the function called `newEtherlander()` although you now have to use `emit` to emit an event it still is a good practice.
+  
+ **Reference(s)**:
+ * [The course](https://www.theschool.ai/courses/decentralized-application/)
+ * [Differentiate functions and events](https://consensys.github.io/smart-contract-best-practices/recommendations/#differentiate-functions-and-events)
+ * [Lock pragmas to specific compiler version](https://consensys.github.io/smart-contract-best-practices/recommendations/#lock-pragmas-to-specific-compiler-version)
