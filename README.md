@@ -793,3 +793,15 @@ Also, read about the best practices of starting all your event names with 'Log' 
  * [The course](https://www.theschool.ai/courses/decentralized-application/)
  * [Differentiate functions and events](https://consensys.github.io/smart-contract-best-practices/recommendations/#differentiate-functions-and-events)
  * [Lock pragmas to specific compiler version](https://consensys.github.io/smart-contract-best-practices/recommendations/#lock-pragmas-to-specific-compiler-version)
+ 
+ ### Day 64: September 20, 2018
+ ##### Decentralized Applications course
+
+**Today's Progress**: Finished the course (video material)
+
+**Thoughts**: Although I didn't really switch between following this course and working on Etherlanders I learned a lot by following this course. Most of the work assignments are covering subjects I already learned so I am not planning to finish these assignments.
+
+From now on I will work on Etherlanders project again. The main goal from now on to the end of this challenge will be to release a working alpha version of the game at the end of this challenge.
+  
+ **Reference(s)**:
+ * [The course](https://www.theschool.ai/courses/decentralized-application/)
