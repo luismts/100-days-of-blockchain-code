@@ -805,3 +805,16 @@ From now on I will work on Etherlanders project again. The main goal from now on
   
  **Reference(s)**:
  * [The course](https://www.theschool.ai/courses/decentralized-application/)
+ 
+ ### Day 65: September 21, 2018
+ ##### Developing my own game on Ethereum
+
+**Today's Progress**: Started coding front-end logic / Found website template
+
+**Thoughts**: I used the same boilerplate code that I used for building the Election-DAPP I made some time ago. I wanted to make this website with Vue but I think it is best to only focus on learning more about blockchain because otherwise, the project will take too much time.
+  
+ **Reference(s)**:
+ * [Website template](https://www.styleshout.com/templates/preview/Count10/index-static.html)
+ 
+ **Link(s) to work**:
+ * [Etherlanders repo](https://github.com/RoyVoetman/Etherlanders/)
