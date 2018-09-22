@@ -809,9 +809,19 @@ From now on I will work on Etherlanders project again. The main goal from now on
  ### Day 65: September 21, 2018
  ##### Developing my own game on Ethereum
 
-**Today's Progress**: Started coding front-end logic / Found website template
+**Today's Progress**: Started coding front-end logic
 
 **Thoughts**: I used the same boilerplate code that I used for building the Election-DAPP I made some time ago. I wanted to make this website with Vue but I think it is best to only focus on learning more about blockchain because otherwise, the project will take too much time.
+ 
+ **Link(s) to work**:
+ * [Etherlanders repo](https://github.com/RoyVoetman/Etherlanders/)
+ 
+ ### Day 66: September 22, 2018
+ ##### Developing my own game on Ethereum
+
+**Today's Progress**: Implented frontend template
+
+**Thoughts**: After some web surfing, I found an awesome looking website template. I changed the content and linked back to the white-paper. I was struggling a bit when I had to merge the JavaScript of the template and my web3 boilerplate. After some trial and error, everything works as expected.
   
  **Reference(s)**:
  * [Website template](https://www.styleshout.com/templates/preview/Count10/index-static.html)
