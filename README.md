@@ -828,3 +828,13 @@ From now on I will work on Etherlanders project again. The main goal from now on
  
  **Link(s) to work**:
  * [Etherlanders repo](https://github.com/RoyVoetman/Etherlanders/)
+ 
+  ### Day 67: September 23, 2018
+ ##### Developing my own game on Ethereum
+
+**Today's Progress**: Website is now live!
+
+**Thoughts**: I had to disable some of the web3 javascript code because the smart contract isn't deployed to any public blockchain yet. 
+ 
+**Link(s) to work**:
+* [Website](https://etherlanders.learnandbelieve.nl/)
