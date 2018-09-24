@@ -838,3 +838,15 @@ From now on I will work on Etherlanders project again. The main goal from now on
  
 **Link(s) to work**:
 * [Website](https://etherlanders.learnandbelieve.nl/)
+
+ ### Day 68: September 24, 2018
+ ##### Developing my own game on Ethereum
+
+**Today's Progress**: Improved smart contract logic.
+
+**Thoughts**: After analyzing the code base, I found out that it is very inefficient to have a 'buyPack' and 'openPack' function. In the scenario of 2 functions, you would have to pay 2 times to open only 1 pack. So I merged the 2 functions. The function is now called 'buyPacks'.
+
+Second I removed the categories. Instead of a category an etherlander now has a skin which will determine his looks.
+ 
+ **Link(s) to work**:
+ * [Etherlanders repo](https://github.com/RoyVoetman/Etherlanders/)
