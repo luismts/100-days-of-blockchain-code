@@ -850,3 +850,13 @@ Second I removed the categories. Instead of a category an etherlander now has a 
  
  **Link(s) to work**:
  * [Etherlanders repo](https://github.com/RoyVoetman/Etherlanders/)
+ 
+ ### Day 69: September 25, 2018
+ ##### Developing my own game on Ethereum
+
+**Today's Progress**: Wrote unit test for the newly added contract logic.
+
+**Thoughts**: I changed the 'buyPacks' function to 'buyPack'. I did this because otherwise, the function could become very computationally heavy (i.e. cost a lot of Gas). As of this moment, the newly added logic still isn't passing 100% on the unit test. There is an "invalid opcode" error when the "return by id" functions are called. Tomorrow I will look try to resolve these errors.
+ 
+ **Link(s) to work**:
+ * [Etherlanders repo](https://github.com/RoyVoetman/Etherlanders/)
