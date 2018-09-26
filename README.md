@@ -860,3 +860,17 @@ Second I removed the categories. Instead of a category an etherlander now has a 
  
  **Link(s) to work**:
  * [Etherlanders repo](https://github.com/RoyVoetman/Etherlanders/)
+ 
+ ### Day 70: September 26, 2018
+ ##### Developing my own game on Ethereum
+
+**Today's Progress**: Wrote unit test for buying packs with ether
+
+**Thoughts**: I found out there is no need for a getter function like `getEtherlanderById`. If you declare an array public in solidity, you automatically get getter and setter functions for free.
+
+After some trial and error, I found out where the "invalid opcode" error came from. I called a getter function with an index that didn't exist. As of now I still don't know why my `add` function doesn't return the right id.
+
+At last, I added a unit test for testing sending ether to the `buyPack` function. This is possible by adding the metadata `to: this.contract.address` and `value: 10000` to the transaction request.
+ 
+ **Link(s) to work**:
+ * [Etherlanders repo](https://github.com/RoyVoetman/Etherlanders/)
