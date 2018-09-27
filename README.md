@@ -680,7 +680,7 @@ And I learned about how to assert that a variable is a certain data-type with `v
  ### Day 55: September 11, 2018
  ##### Developing my own game on Ethereum
 
-**Today's Progress**: Added a BuyTokens function / Continued watching  youtube tutorial series
+**Today's Progress**: Added a BuyTokens function / Continued watching  youtube tutorial series.
 
 **Thoughts**: Today I struggled a bit with testing if a function returned an integer/number. Of course with web3 the function will return a `BigNumber` but even after calling the `.toNumber()` function on it `variable.should.be.an('integer');` still didn't work. As it turns out, JavaScript doesn't have a separate `integer` type. Everything is a floating point number, which would be of data type number.
   
@@ -694,7 +694,7 @@ And I learned about how to assert that a variable is a certain data-type with `v
   ### Day 56: September 12, 2018
  ##### Developing my own game on Ethereum
 
-**Today's Progress**: Read article series about the ERC721 standard
+**Today's Progress**: Read article series about the ERC721 standard.
 
 **Thoughts**: Learned about why the ERC721 token standard requires the ERC165 token standard. Luckily it's not rocket science. The ERC165 token standard interface only has one function `supportsInterface`. I quote:
 
@@ -708,7 +708,7 @@ And I learned about how to assert that a variable is a certain data-type with `v
  ### Day 57: September 13, 2018
  ##### Developing my own game on Ethereum
 
-**Today's Progress**: Added psuedo random number generation function
+**Today's Progress**: Added psuedo random number generation function.
 
 **Thoughts**: Added a pseudo-random number generator for calculating the starting stats for an Etherlander. I am not using it for the selection of etherlanders because I want that functionality to be as decentralized as possible.
   
@@ -718,7 +718,7 @@ And I learned about how to assert that a variable is a certain data-type with `v
  ### Day 58: September 14, 2018
  ##### Developing my own game on Ethereum
 
-**Today's Progress**: Continued reading article series about the ERC721 standard
+**Today's Progress**: Continued reading article series about the ERC721 standard.
 
 **Thoughts**: Learned about the Metadata and Enumerable extensions. Before reading the articles, I didn't even know what extensions meant in the context of Solidity development. It turns out you can extend your contract on these extensions on top of the already extended ERC721 token standard. This will provide you which some extra functions.
   
@@ -783,7 +783,7 @@ This chapter also includes a midterm project so I am going to hand in the Etherl
  ### Day 63: September 19, 2018
  ##### Decentralized Applications course
 
-**Today's Progress**: Read about Ethereum best practices
+**Today's Progress**: Read about Ethereum best practices.
 
 **Thoughts**: Read about the locking pragmas to a specific version. If you don't use the `^` sign before the version number in your smart contract, it will always use that specific version.
 
@@ -797,7 +797,7 @@ Also, read about the best practices of starting all your event names with 'Log' 
  ### Day 64: September 20, 2018
  ##### Decentralized Applications course
 
-**Today's Progress**: Finished the course (video material)
+**Today's Progress**: Finished the course (video material).
 
 **Thoughts**: Although I didn't really switch between following this course and working on Etherlanders I learned a lot by following this course. Most of the work assignments are covering subjects I already learned so I am not planning to finish these assignments.
 
@@ -809,7 +809,7 @@ From now on I will work on Etherlanders project again. The main goal from now on
  ### Day 65: September 21, 2018
  ##### Developing my own game on Ethereum
 
-**Today's Progress**: Started coding front-end logic
+**Today's Progress**: Started coding front-end logic.
 
 **Thoughts**: I used the same boilerplate code that I used for building the Election-DAPP I made some time ago. I wanted to make this website with Vue but I think it is best to only focus on learning more about blockchain because otherwise, the project will take too much time.
  
@@ -819,7 +819,7 @@ From now on I will work on Etherlanders project again. The main goal from now on
  ### Day 66: September 22, 2018
  ##### Developing my own game on Ethereum
 
-**Today's Progress**: Implented frontend template
+**Today's Progress**: Implented frontend template.
 
 **Thoughts**: After some web surfing, I found an awesome looking website template. I changed the content and linked back to the white-paper. I was struggling a bit when I had to merge the JavaScript of the template and my web3 boilerplate. After some trial and error, everything works as expected.
   
@@ -864,7 +864,7 @@ Second I removed the categories. Instead of a category an etherlander now has a 
  ### Day 70: September 26, 2018
  ##### Developing my own game on Ethereum
 
-**Today's Progress**: Wrote unit test for buying packs with ether
+**Today's Progress**: Wrote unit test for buying packs with ether.
 
 **Thoughts**: I found out there is no need for a getter function like `getEtherlanderById`. If you declare an array public in solidity, you automatically get getter and setter functions for free.
 
@@ -874,3 +874,16 @@ At last, I added a unit test for testing sending ether to the `buyPack` function
  
  **Link(s) to work**:
  * [Etherlanders repo](https://github.com/RoyVoetman/Etherlanders/)
+ 
+ ### Day 71: September 27, 2018
+ ##### Developing my own game on Ethereum
+
+**Today's Progress**: Resolved invalid opcode error / Optimized website with Lighthouse
+
+**Thoughts**: After a lot of trial and error I found out that the ids my function returned were incorrect. Instead of subtracting 1 from the result of the `.push` function I now subtract 2. Still, this behavior is very weird because `.push` should return the new length of the array, so after adding an item subtracting 1 should give me the right index.
+
+ **Link(s) to work**:
+ * [Etherlanders repo](https://github.com/RoyVoetman/Etherlanders/)
+ 
+ **Reference(s)**:
+ * [Lighthouse](https://developers.google.com/web/tools/lighthouse/)
