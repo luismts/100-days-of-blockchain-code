@@ -887,3 +887,15 @@ At last, I added a unit test for testing sending ether to the `buyPack` function
  
  **Reference(s)**:
  * [Lighthouse](https://developers.google.com/web/tools/lighthouse/)
+ 
+ ### Day 72: September 28, 2018
+ ##### Developing my own game on Ethereum
+
+**Today's Progress**: Enhanced unit tests 
+
+**Thoughts**: I added tests for checking the `LogNewEtherlander` event and the `attacks` array from the `Etherlanders` struct. Checking the event was a piece of cake but for some reason, the default `etherlanders` getter function doesn't return arrays.
+
+To get around this I wrote a new `external view` function that takes one argument, an etherlanderId. This function then returns the attacks array for the given etherlanderId.
+
+ **Link(s) to work**:
+ * [Etherlanders repo](https://github.com/RoyVoetman/Etherlanders/)
