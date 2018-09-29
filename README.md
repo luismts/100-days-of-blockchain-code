@@ -899,3 +899,16 @@ To get around this I wrote a new `external view` function that takes one argumen
 
  **Link(s) to work**:
  * [Etherlanders repo](https://github.com/RoyVoetman/Etherlanders/)
+ 
+### Day 73: September 29, 2018
+##### Developing my own game on Ethereum
+
+**Today's Progress**: Deepened my knowledge of Solidity
+
+**Thoughts**: Today I found a really good tutorial series on youtube about learning Solidity. Although I already know all the basics it still is very interesting to follow. The series really explains why certain things work the way they do. I learned about the difference between `require, assert and revert` before this tutorial I didn't even know about `revert`.
+
+This tutorial also shows how to use Remix the Ethereum (online) IDE. It is a great tool for debugging your smart contracts.
+
+**Reference(s)**:
+* [Solidity turtorial](https://www.youtube.com/playlist?list=PL16WqdAj66SCOdL6XIFbke-XQg2GW_Avg)
+
