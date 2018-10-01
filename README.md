@@ -926,3 +926,13 @@ At last, I learned about the existence of fixed point integers. This data-type a
 **Reference(s)**:
 * [Solidity turtorial](https://www.youtube.com/playlist?list=PL16WqdAj66SCOdL6XIFbke-XQg2GW_Avg)
 
+### Day 75: October 1, 2018
+##### Developing my own game on Ethereum
+
+**Today's Progress**: Found dashboard template.
+
+**Thoughts**: I searched for a dashboard template and found the OpenSource CoolAdmin template. My idea is that I will tweak this admin dashboard a bit so it looks like a great interface for our web application. I will also move pure HTML to PHP so I could modularize all the main components of the template.
+
+**Reference(s)**:
+* [CoolAdmin template](https://github.com/puikinsh/CoolAdmin)
+
