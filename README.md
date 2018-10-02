@@ -936,7 +936,7 @@ At last, I learned about the existence of fixed point integers. This data-type a
 **Reference(s)**:
 * [CoolAdmin template](https://github.com/puikinsh/CoolAdmin)
 
-### Day 76: October 1, 2018
+### Day 76: October 2, 2018
 ##### Developing my own game on Ethereum
 
 **Today's Progress**: Update user dashboard.
