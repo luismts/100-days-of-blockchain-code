@@ -936,3 +936,16 @@ At last, I learned about the existence of fixed point integers. This data-type a
 **Reference(s)**:
 * [CoolAdmin template](https://github.com/puikinsh/CoolAdmin)
 
+### Day 76: October 1, 2018
+##### Developing my own game on Ethereum
+
+**Today's Progress**: Update user dashboard.
+
+**Thoughts**: The dashboard template I found yesterday can be used as the users home page. After some searching on the web, I also found a free creature image pack. This pack will be the perfect starting point for etherlander designs.
+
+**Link(s) to work**:
+* [Etherlanders repo](https://github.com/RoyVoetman/Etherlanders/)
+
+**Reference(s)**:
+* [CoolAdmin template](https://github.com/puikinsh/CoolAdmin)
+* [Creature pack](https://pipoya.itch.io/free-rpg-monster-pack)
