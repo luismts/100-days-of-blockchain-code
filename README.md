@@ -949,3 +949,13 @@ At last, I learned about the existence of fixed point integers. This data-type a
 **Reference(s)**:
 * [CoolAdmin template](https://github.com/puikinsh/CoolAdmin)
 * [Creature pack](https://pipoya.itch.io/free-rpg-monster-pack)
+
+### Day 77: October 3, 2018
+##### Developing my own game on Ethereum
+
+**Today's Progress**: Modularized user dashboard.
+
+**Thoughts**: The different modules like the header and navbar moved to sperate files that can be included where needed. I am still struggling a bit with the hyperlink-references because I will be loading the navbar module on multiple pages. This means that the path to other web pages will have to be referenced by their full path. The problem is that my dev environment isn't the same as the production environment.
+
+**Link(s) to work**:
+* [Etherlanders repo](https://github.com/RoyVoetman/Etherlanders/)
