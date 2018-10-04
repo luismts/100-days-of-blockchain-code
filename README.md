@@ -959,3 +959,13 @@ At last, I learned about the existence of fixed point integers. This data-type a
 
 **Link(s) to work**:
 * [Etherlanders repo](https://github.com/RoyVoetman/Etherlanders/)
+
+### Day 78: October 4, 2018
+##### Developing my own game on Ethereum
+
+**Today's Progress**: Fixed hyperlinks-reference problem.
+
+**Thoughts**: I added a configuration file which can be used to specify the websites URL. This solves the hyperlink problem because I can change the configuration file depending on the environment.
+
+**Link(s) to work**:
+* [Etherlanders repo](https://github.com/RoyVoetman/Etherlanders/)
