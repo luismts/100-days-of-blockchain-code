@@ -969,3 +969,14 @@ At last, I learned about the existence of fixed point integers. This data-type a
 
 **Link(s) to work**:
 * [Etherlanders repo](https://github.com/RoyVoetman/Etherlanders/)
+
+### Day 79: October 5, 2018
+##### Developing my own game on Ethereum
+
+**Today's Progress**: Changed directory structure / Started moving to OOP
+
+**Thoughts**: I changed to the directory structure, it now is better logically ordered. It's a real challenge to make the structure as logical as possible. This is because I am combining a PHP project with the Truffle Framework. I don't want to include a framework like Laravel because combining that with Truffle will be a real challenge.
+
+**Link(s) to work**:
+* [Etherlanders repo](https://github.com/RoyVoetman/Etherlanders/)
+
