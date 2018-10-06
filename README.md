@@ -983,7 +983,7 @@ At last, I learned about the existence of fixed point integers. This data-type a
 ### Day 80: October 6, 2018
 ##### Developing my own game on Ethereum
 
-**Today's Progress**: Written a 'ComponentLoader' and 'Config' class
+**Today's Progress**: Written a `ComponentLoader` and `Config` class
 
 **Thoughts**: With my `Config` class I can readout the `config.ini` file with dot notation: `$config->get('paths.url')`. With my `ComponentLoader` class I don't have to include the full path to the resources directory, I can just do: `$components->include('header.mobile')`. I think this makes to code way cleaner and easier to read.
 
