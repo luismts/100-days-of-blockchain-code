@@ -990,3 +990,13 @@ At last, I learned about the existence of fixed point integers. This data-type a
 **Link(s) to work**:
 * [Etherlanders repo](https://github.com/RoyVoetman/Etherlanders/)
 
+### Day 81: October 7, 2018
+##### Developing my own game on Ethereum
+
+**Today's Progress**: Added `web3` to admin dashboard
+
+**Thoughts**: I wanted to add web3 to the admin dashboard so I could test displaying all owned etherlanders. So first I will need to seed some etherlanders to on account. But for some reason, MetaMask gives an error when I want to call the `buyPack` function. After some struggling, I decided to focus on something else. Instead of testing the display functionality I added a loader to the page. This loader has the option to display errors to the screen. Right now the web-page provides the user with a user-friendly error when MetaMask isn't installed.
+
+**Link(s) to work**:
+* [Etherlanders repo](https://github.com/RoyVoetman/Etherlanders/)
+
