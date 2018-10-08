@@ -1000,3 +1000,13 @@ At last, I learned about the existence of fixed point integers. This data-type a
 **Link(s) to work**:
 * [Etherlanders repo](https://github.com/RoyVoetman/Etherlanders/)
 
+### Day 82: October 8, 2018
+##### Developing my own game on Ethereum
+
+**Today's Progress**: Made a planning for finishing an alpha version of the game at the end of this challenge.
+
+**Thoughts**: I think it would be great to have a playable version of the game at the end of this challenge. After trying to make the planning I saw it would be way to much work to finish everything in time. So I decided to ignore the battling and trading aspects for now. This allows me to purely focus on the core functionality, buying etherlanders.
+
+**Link(s) to work**:
+* [Etherlanders repo](https://github.com/RoyVoetman/Etherlanders/)
+
