@@ -1023,3 +1023,14 @@ At last, I learned about the existence of fixed point integers. This data-type a
 **Link(s) to work**:
 * [Etherlanders repo](https://github.com/RoyVoetman/Etherlanders/)
 
+### Day 84: October 10, 2018
+##### Developing my own game on Ethereum
+
+**Today's Progress**: Added login option to homepage / added a help section
+
+**Thoughts**: For now when someone visits the `/login` page they will automatically be logged in. Later on, you will have an option to login/register. Not everyone will have Metamask installed yet, which is needed for viewing your dashboard. So after logging in you will be redirected to the homepage.
+
+Because education about blockchain is our main goal here, I will have to write tutorials on how users can start engaging with the DAPP. These resources will, later on, be available from the home screen.
+
+**Link(s) to work**:
+* [Etherlanders repo](https://github.com/RoyVoetman/Etherlanders/)
