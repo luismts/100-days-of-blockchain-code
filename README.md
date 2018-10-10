@@ -882,11 +882,11 @@ At last, I added a unit test for testing sending ether to the `buyPack` function
 
 **Thoughts**: After a lot of trial and error I found out that the ids my function returned were incorrect. Instead of subtracting 1 from the result of the `.push` function I now subtract 2. Still, this behavior is very weird because `.push` should return the new length of the array, so after adding an item subtracting 1 should give me the right index.
 
- **Link(s) to work**:
- * [Etherlanders repo](https://github.com/RoyVoetman/Etherlanders/)
- 
  **Reference(s)**:
  * [Lighthouse](https://developers.google.com/web/tools/lighthouse/)
+
+ **Link(s) to work**:
+ * [Etherlanders repo](https://github.com/RoyVoetman/Etherlanders/)
  
  ### Day 72: September 28, 2018
  ##### Developing my own game on Ethereum
@@ -943,12 +943,12 @@ At last, I learned about the existence of fixed point integers. This data-type a
 
 **Thoughts**: The dashboard template I found yesterday can be used as the users home page. After some searching on the web, I also found a free creature image pack. This pack will be the perfect starting point for etherlander designs.
 
-**Link(s) to work**:
-* [Etherlanders repo](https://github.com/RoyVoetman/Etherlanders/)
-
 **Reference(s)**:
 * [CoolAdmin template](https://github.com/puikinsh/CoolAdmin)
 * [Creature pack](https://pipoya.itch.io/free-rpg-monster-pack)
+
+**Link(s) to work**:
+* [Etherlanders repo](https://github.com/RoyVoetman/Etherlanders/)
 
 ### Day 77: October 3, 2018
 ##### Developing my own game on Ethereum
@@ -1006,6 +1006,19 @@ At last, I learned about the existence of fixed point integers. This data-type a
 **Today's Progress**: Made a planning for finishing an alpha version of the game at the end of this challenge.
 
 **Thoughts**: I think it would be great to have a playable version of the game at the end of this challenge. After trying to make the planning I saw it would be way to much work to finish everything in time. So I decided to ignore the battling and trading aspects for now. This allows me to purely focus on the core functionality, buying etherlanders.
+
+**Link(s) to work**:
+* [Etherlanders repo](https://github.com/RoyVoetman/Etherlanders/)
+
+### Day 83: October 9, 2018
+##### Developing my own game on Ethereum
+
+**Today's Progress**: Finished storyline / Create map
+
+**Thoughts**: After finishing the storyline I wanted to draw a map. So first I googled around a bit, then I found out about an open source map generator. After some tweaking with the settings, I now have a perfect map to use for the Etherlanders storyline.
+
+**Reference(s)**:
+* [Fantasy map generator](https://azgaar.github.io/Fantasy-Map-Generator/)
 
 **Link(s) to work**:
 * [Etherlanders repo](https://github.com/RoyVoetman/Etherlanders/)
