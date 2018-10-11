@@ -1034,3 +1034,13 @@ Because education about blockchain is our main goal here, I will have to write t
 
 **Link(s) to work**:
 * [Etherlanders repo](https://github.com/RoyVoetman/Etherlanders/)
+
+### Day 85: October 11, 2018
+##### Developing my own game on Ethereum
+
+**Today's Progress**: Improved help section
+
+**Thoughts**: I improved the help section of the page by removing unnecessary content. A problem arose when I wanted to refer to the help section by URL. The `help` section is part of the homepage and invisible at the start. After some trial and error, I added an `if statement` in PHP the check the URL for GET parameter named `help`. If so it will show the `help` from the start.
+
+**Link(s) to work**:
+* [Etherlanders repo](https://github.com/RoyVoetman/Etherlanders/)
