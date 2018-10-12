@@ -973,7 +973,7 @@ At last, I learned about the existence of fixed point integers. This data-type a
 ### Day 79: October 5, 2018
 ##### Developing my own game on Ethereum
 
-**Today's Progress**: Changed directory structure / Started moving to OOP
+**Today's Progress**: Changed directory structure / Started moving to OOP.
 
 **Thoughts**: I changed to the directory structure, it now is better logically ordered. It's a real challenge to make the structure as logical as possible. This is because I am combining a PHP project with the Truffle Framework. I don't want to include a framework like Laravel because combining that with Truffle will be a real challenge.
 
@@ -983,7 +983,7 @@ At last, I learned about the existence of fixed point integers. This data-type a
 ### Day 80: October 6, 2018
 ##### Developing my own game on Ethereum
 
-**Today's Progress**: Written a `ComponentLoader` and `Config` class
+**Today's Progress**: Written a `ComponentLoader` and `Config` class.
 
 **Thoughts**: With my `Config` class I can readout the `config.ini` file with dot notation: `$config->get('paths.url')`. With my `ComponentLoader` class I don't have to include the full path to the resources directory, I can just do: `$components->include('header.mobile')`. I think this makes to code way cleaner and easier to read.
 
@@ -993,7 +993,7 @@ At last, I learned about the existence of fixed point integers. This data-type a
 ### Day 81: October 7, 2018
 ##### Developing my own game on Ethereum
 
-**Today's Progress**: Added `web3` to admin dashboard
+**Today's Progress**: Added `web3` to admin dashboard.
 
 **Thoughts**: I wanted to add web3 to the admin dashboard so I could test displaying all owned etherlanders. So first I will need to seed some etherlanders to on account. But for some reason, MetaMask gives an error when I want to call the `buyPack` function. After some struggling, I decided to focus on something else. Instead of testing the display functionality I added a loader to the page. This loader has the option to display errors to the screen. Right now the web-page provides the user with a user-friendly error when MetaMask isn't installed.
 
@@ -1013,7 +1013,7 @@ At last, I learned about the existence of fixed point integers. This data-type a
 ### Day 83: October 9, 2018
 ##### Developing my own game on Ethereum
 
-**Today's Progress**: Finished storyline / Create map
+**Today's Progress**: Finished storyline / Create map.
 
 **Thoughts**: After finishing the storyline I wanted to draw a map. So first I googled around a bit, then I found out about an open source map generator. After some tweaking with the settings, I now have a perfect map to use for the Etherlanders storyline.
 
@@ -1026,7 +1026,7 @@ At last, I learned about the existence of fixed point integers. This data-type a
 ### Day 84: October 10, 2018
 ##### Developing my own game on Ethereum
 
-**Today's Progress**: Added login option to homepage / added a help section
+**Today's Progress**: Added login option to homepage / added a help section.
 
 **Thoughts**: For now when someone visits the `/login` page they will automatically be logged in. Later on, you will have an option to login/register. Not everyone will have Metamask installed yet, which is needed for viewing your dashboard. So after logging in you will be redirected to the homepage.
 
@@ -1038,9 +1038,20 @@ Because education about blockchain is our main goal here, I will have to write t
 ### Day 85: October 11, 2018
 ##### Developing my own game on Ethereum
 
-**Today's Progress**: Improved help section
+**Today's Progress**: Improved help section.
 
 **Thoughts**: I improved the help section of the page by removing unnecessary content. A problem arose when I wanted to refer to the help section by URL. The `help` section is part of the homepage and invisible at the start. After some trial and error, I added an `if statement` in PHP the check the URL for GET parameter named `help`. If so it will show the `help` from the start.
 
 **Link(s) to work**:
 * [Etherlanders repo](https://github.com/RoyVoetman/Etherlanders/)
+
+### Day 86: October 12, 2018
+
+**Today's Progress**: Followed tutorial about Assembly within Solidity.
+
+**Thoughts**: At the moment I have a huge headache, but this will not stop me from completing this challenge. It didn't seem a good idea to do anything with programming so I decided to continue the solidity tutorial.
+
+I learned that can use both functional and instructional assembly within a smart contract. Although it does same GAS costs it's not used often because it is difficult to read/understand. Functional is used for very specific GAS expensive functions. Instructional assembly is actually (almost) never used because the difference in GAS cost, when compared to the functional way, is really really small.
+
+**Reference(s)**:
+* [Solidity turtorial](https://www.youtube.com/playlist?list=PL16WqdAj66SCOdL6XIFbke-XQg2GW_Avg)
