@@ -1055,3 +1055,12 @@ I learned that can use both functional and instructional assembly within a smart
 
 **Reference(s)**:
 * [Solidity turtorial](https://www.youtube.com/playlist?list=PL16WqdAj66SCOdL6XIFbke-XQg2GW_Avg)
+
+### Day 87: October 13, 2018
+
+**Today's Progress**: Realised navbar functionality.
+
+**Thoughts**: The search-bar was really easy to implement, just some javascript code that shows and hides certain cards. For the statistics, I created special HTML data attributes and a javascript function to provide these elements with content. The most interesting part was displaying the account information. For this, I moved from using a single string to a `User` object. When saving this to a `session variable` the object first needed to be serialized. Therefor I provided the `boostrap/app.php` file with some special logic for unserializing the serialized string.
+
+**Link(s) to work**:
+* [Etherlanders repo](https://github.com/RoyVoetman/Etherlanders/)
