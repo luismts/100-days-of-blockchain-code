@@ -1075,3 +1075,18 @@ I learned that can use both functional and instructional assembly within a smart
 
 **Link(s) to work**:
 * [Etherlanders repo](https://github.com/RoyVoetman/Etherlanders/)
+
+### Day 89 October 15, 2018
+##### Developing my own game on Ethereum
+
+**Today's Progress**: Designed database schema.
+
+**Thoughts**: After designing the database schema I created the DDL script to build the database. I wasn't happy with this solution so I searched for a lightweight PHP migration library. Eventually, I found out about the Phnix migration library from the CakePHP framework.
+
+I'm still struggling a bit with added Foreign Keys. But next to that I really like this library because they replaced the `up` and `down` functions with a `change` function that works both ways.
+
+**Reference(s)**:
+* [Phinx migrations](https://phinx.org)
+
+**Link(s) to work**:
+* [Etherlanders repo](https://github.com/RoyVoetman/Etherlanders/)
