@@ -1091,7 +1091,7 @@ I'm still struggling a bit with added Foreign Keys. But next to that I really li
 **Link(s) to work**:
 * [Etherlanders repo](https://github.com/RoyVoetman/Etherlanders/)
 
-### Day 90 October 15, 2018
+### Day 90 October 16, 2018
 ##### Developing my own game on Ethereum
 
 **Today's Progress**: Moved from .ini to .yml
