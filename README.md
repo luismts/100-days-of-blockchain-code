@@ -1090,3 +1090,13 @@ I'm still struggling a bit with added Foreign Keys. But next to that I really li
 
 **Link(s) to work**:
 * [Etherlanders repo](https://github.com/RoyVoetman/Etherlanders/)
+
+### Day 90 October 15, 2018
+##### Developing my own game on Ethereum
+
+**Today's Progress**: Moved from .ini to .yml
+
+**Thoughts**: I combined the Phnix yaml file with the default .ini file. And I also removed the config folder because there is no actual need for it. Next to that, I fixed the bug of added a foreign key with Phnix by changing the options parameter.
+
+**Link(s) to work**:
+* [Etherlanders repo](https://github.com/RoyVoetman/Etherlanders/)
