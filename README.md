@@ -1100,3 +1100,16 @@ I'm still struggling a bit with added Foreign Keys. But next to that I really li
 
 **Link(s) to work**:
 * [Etherlanders repo](https://github.com/RoyVoetman/Etherlanders/)
+
+### Day 91 October 17, 2018
+##### Developing my own game on Ethereum
+
+**Today's Progress**: Found a lightweight and efficient alternative to Object-Relational Mapping for PHP.
+
+**Thoughts**: Migration are now handled by Phnix and executing queries is handled by Lessql. Right now I implemented some basic logic to log in a user. Right now I am behind on schedule but I find it essential that database queries are correctly handled.
+
+**Reference(s)**:
+* [Lessql](http://lessql.net)
+
+**Link(s) to work**:
+* [Etherlanders repo](https://github.com/RoyVoetman/Etherlanders/)
