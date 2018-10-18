@@ -1113,3 +1113,13 @@ I'm still struggling a bit with added Foreign Keys. But next to that I really li
 
 **Link(s) to work**:
 * [Etherlanders repo](https://github.com/RoyVoetman/Etherlanders/)
+
+### Day 92 October 18, 2018
+##### Developing my own game on Ethereum
+
+**Today's Progress**: Started with implementing routing.
+
+**Thoughts**: Started with implementing routing because I want to separate the actual HTML pages from all the CSS, JS, images, etc. I still encountered some problems with including some helper function, but I fixed that by defining them as static function inside a class.
+
+**Link(s) to work**:
+* [Etherlanders repo](https://github.com/RoyVoetman/Etherlanders/)
