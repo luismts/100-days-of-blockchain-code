@@ -1134,3 +1134,13 @@ I'm still struggling a bit with added Foreign Keys. But next to that I really li
 **Link(s) to work**:
 * [Etherlanders smart contracts repo](https://github.com/RoyVoetman/Etherlanders-smart-contracts)
 * [Etherlanders web application repo](https://github.com/RoyVoetman/Etherlanders-webapplication)
+
+### Day 94 October 20, 2018
+##### Developing my own game on Ethereum
+
+**Today's Progress**: Finished routing in the web application.
+
+**Thoughts**: With my current progress I won't be able to finish the application at the end of the challenge. But this shouldn't be a problem. What I wanted to achieve with this challenge is to learn more about blockchain. In my opinion, I learned a lot! I could always finish the game later after the challenge is finished.
+
+**Link(s) to work**:
+* [Etherlanders web application repo](https://github.com/RoyVoetman/Etherlanders-webapplication)
