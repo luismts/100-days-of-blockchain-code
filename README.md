@@ -1144,3 +1144,18 @@ I'm still struggling a bit with added Foreign Keys. But next to that I really li
 
 **Link(s) to work**:
 * [Etherlanders web application repo](https://github.com/RoyVoetman/Etherlanders-webapplication)
+
+> Missed October 21 to 24 due to a college trip
+
+### Day 95 October 25, 2018
+##### Developing my own game on Ethereum
+
+**Today's Progress**: Found out about the Singleton design pattern.
+
+**Thoughts**: Today I finally found the solution to the problem I had with preventing the need for instantiating a class multiple times. With a Singleton, you save an instance of the class as a static property. Only if the property is empty the class gets instantiated. This prevents the class from being instantiated multiple times.
+
+**Reference(s)**:
+* [Singleton](https://medium.com/@NahidulHasan/laravel-ioc-container-why-we-need-it-and-how-it-works-a603d4cef10f#4ddf)
+
+**Link(s) to work**:
+* [Etherlanders web application repo](https://github.com/RoyVoetman/Etherlanders-webapplication)
