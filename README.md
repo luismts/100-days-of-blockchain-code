@@ -1159,3 +1159,14 @@ I'm still struggling a bit with added Foreign Keys. But next to that I really li
 
 **Link(s) to work**:
 * [Etherlanders web application repo](https://github.com/RoyVoetman/Etherlanders-webapplication)
+
+### Day 96 October 26, 2018
+
+**Today's Progress**: Followed some tutorials about Solidity
+
+**Thoughts**: I decided to deepen my knowledge of Solidity the best I can in the last few days. When I look back at the development of the web application it is mostly PHP. Working on that application doesn't really deepen my knowledge about blockchain technology.  
+
+**Reference(s)**:
+* [Randomness and Gambling](https://www.youtube.com/watch?v=3wY5PRliphE)
+* [Time Based Events](https://www.youtube.com/watch?v=HGw-yalqdgs)
+
