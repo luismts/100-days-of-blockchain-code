@@ -1162,11 +1162,23 @@ I'm still struggling a bit with added Foreign Keys. But next to that I really li
 
 ### Day 96 October 26, 2018
 
-**Today's Progress**: Followed some tutorials about Solidity
+**Today's Progress**: Followed tutorials about Solidity
 
 **Thoughts**: I decided to deepen my knowledge of Solidity the best I can in the last few days. When I look back at the development of the web application it is mostly PHP. Working on that application doesn't really deepen my knowledge about blockchain technology.  
 
 **Reference(s)**:
 * [Randomness and Gambling](https://www.youtube.com/watch?v=3wY5PRliphE)
 * [Time Based Events](https://www.youtube.com/watch?v=HGw-yalqdgs)
+
+### Day 97 October 27, 2018
+
+**Today's Progress**: Followed tutorials about Solidity
+
+**Thoughts**: Today I learn about why nested and dynamic arrays don't always work. It has to do with how Solidity stores the array. Storage, for example, works just fine but Memory, on the other hand, will throw an error. Right now an array in memory is stored back to back to back to back, in other words, it doesn't use reference pointers. This is a problem when you want your array to be dynamic.
+
+There are ways to get around this but it requires you to write it in Assembly. With assembly, you can do your own memeory allocation and kinda make your own data-structure but this is really a pain in the ass to write.
+
+**Reference(s)**:
+* [Truffle](https://www.youtube.com/watch?v=YcTSilIfih0)
+* [Nested Arrays and Storage](https://www.youtube.com/watch?v=zkNHRJEuYQg)
 
