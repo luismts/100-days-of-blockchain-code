@@ -1162,7 +1162,7 @@ I'm still struggling a bit with added Foreign Keys. But next to that I really li
 
 ### Day 96 October 26, 2018
 
-**Today's Progress**: Followed tutorials about Solidity
+**Today's Progress**: Followed tutorials about Solidity.
 
 **Thoughts**: I decided to deepen my knowledge of Solidity the best I can in the last few days. When I look back at the development of the web application it is mostly PHP. Working on that application doesn't really deepen my knowledge about blockchain technology.  
 
@@ -1172,7 +1172,7 @@ I'm still struggling a bit with added Foreign Keys. But next to that I really li
 
 ### Day 97 October 27, 2018
 
-**Today's Progress**: Followed tutorials about Solidity
+**Today's Progress**: Followed tutorials about Solidity.
 
 **Thoughts**: Today I learn about why nested and dynamic arrays don't always work. It has to do with how Solidity stores the array. Storage, for example, works just fine but Memory, on the other hand, will throw an error. Right now an array in memory is stored back to back to back to back, in other words, it doesn't use reference pointers. This is a problem when you want your array to be dynamic.
 
@@ -1181,4 +1181,17 @@ There are ways to get around this but it requires you to write it in Assembly. W
 **Reference(s)**:
 * [Truffle](https://www.youtube.com/watch?v=YcTSilIfih0)
 * [Nested Arrays and Storage](https://www.youtube.com/watch?v=zkNHRJEuYQg)
+
+### Day 98 October 28, 2018
+
+**Today's Progress**: Followed tutorials about Solidity.
+
+**Thoughts**: Learned about MultiSig Wallets and coding one yourself in Solidity. The function of a MultiSig Wallet is that multiple accounts own the wallet. So if one of the address is lost, you could still access the wallet. Another cool feature can be a to add a requirement that a transaction first needs to be accepted by 'X' amount of owners.
+
+Next to that, I learned that you can return multiple values in Solidity. This is great because I had some struggles with that in the past.
+
+**Reference(s)**:
+* [MultiSig Wallet](https://www.youtube.com/watch?v=OwavQTuHoM8)
+* [MultiSig Wallet 2](https://www.youtube.com/watch?v=23YLeX7mpbU)
+* [Parameter Mapping and Multiple Return Values](https://www.youtube.com/watch?v=v3aoiTh-UVQ)
 
