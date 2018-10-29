@@ -1195,3 +1195,12 @@ Next to that, I learned that you can return multiple values in Solidity. This is
 * [MultiSig Wallet 2](https://www.youtube.com/watch?v=23YLeX7mpbU)
 * [Parameter Mapping and Multiple Return Values](https://www.youtube.com/watch?v=v3aoiTh-UVQ)
 
+### Day 99 October 29, 2018
+
+**Today's Progress**: Followed tutorials about Solidity.
+
+**Thoughts**: Today I learned two new tools, solc, and web3j. Solc is the solidity compiler, previously I always compiled smart contracts with truffle. Web3j is a java library for integration with Ethereum clients. It is kinda like web3js but for java instead of JavaScript.
+
+**Reference(s)**:
+* [Java and Android library for integration with Ethereum clients](https://www.youtube.com/watch?v=kJ905hVbQ_E)
+
