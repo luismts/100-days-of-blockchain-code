@@ -1204,3 +1204,12 @@ Next to that, I learned that you can return multiple values in Solidity. This is
 **Reference(s)**:
 * [Java and Android library for integration with Ethereum clients](https://www.youtube.com/watch?v=kJ905hVbQ_E)
 
+### Day 100 October 30, 2018
+
+**Today's Progress**: Reflected on all that I have learned these 100 days.
+
+**Thoughts**: Today I looked back at everything that I have learned in the past 100 days. I really learned a lot! It seems ages ago since I wrote my first smart contract within solidity with truffle. Overall I am glad I finished this challenge when I see what I have learned. Not only about blockchain but about programming in general as well.
+
+**Reference(s)**:
+* [100 days of blockchain code](https://github.com/RoyVoetman/100-days-of-blockchain-code)
+
